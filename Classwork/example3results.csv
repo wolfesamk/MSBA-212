@@ -1,46 +1,67 @@
 Index,Name,Description,Cuisine,Features,Price,AverageReviewScore,NumberOfReviews
-0,Sauced BBQ & Spirits - Sacramento,,Sports Bars,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
-1,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Salad,"Delivery, Takeout",None,5.0 ,idtown
-2,Pocha House,"Our bartender, Felicia was very attentive and kind! She served us quickly and welcomed us as soon as we came in :)",Korean,"Outdoor seating, Takeout",$$,4.2 ,idtown
-3,Hidden Dumpling House Midtown,"This place is REALLY good. Well worth the wait, I don't think people should complain about having to wait a long time to get a table if it's always packed. The…",Chinese,"Waitlist opens at 11:00 am, Outdoor seating, Delivery, Takeout",$$,3.8 ,idtown
-4,The Rind,I went there for a last minute gathering one of the Managers was able to put together a nice charcuterie board for to-go for me! She was very Nice willingly to…,American (New),"Outdoor seating, Takeout",$$,4.4 ,idtown
-5,Seoul St Midtown,Great people great food the bartenders are just good people nice to talk to and take care of you,Korean,"Outdoor seating, Delivery, Takeout",$$,4.3 ,owntown
-6,Buddha Belly Burger,"Vegan, without all the pomp and circumstance!
+0,The Ravine on Sixteen,"We, The Ravine On Sixteen are happy to welcome all visitors. We have dedicated ourselves to making sure your experience is enjoyable and memorable. We are Yolo County's new ""Place to…",Burgers,"Outdoor seating, Delivery, Takeout",None,4.2 ,46 reviews
+1,Aladdin’s Grill,"Grand Opening May 26th! Aladdin's Grill is a delectable destination that offers an enticing array of gyros, shawarmas, and cheesesteaks, taking your taste buds on a tantalizing…",Fast Food,"Delivery, Takeout",None,4.5 ,87 reviews
+2,Mojo’s Lounge & Kitchen428 Restaurant,In town for a few days and stumbled upon this spot right before last call.  We ordered vegan coconut curry and wow!  I want another bowl to take home.  It is…,American (New),"Live wait time: 0 mins, Outdoor seating, Delivery, Takeout",None,4.3 ,489 reviews
+3,Morgan’s On Main,The mock-tails are delightful and so fun to go with my kid. The atmosphere is pretty lively and I appreciate the service.,American (New),"Outdoor seating, Takeout",None,4.0 ,329 reviews
+4,He’s From Philly Cheesesteaks,"Went when it wasn't too busy. Ordered two traditional philly, a pizza philly, and philly fries. Probably what makes this place stand out is that they're…",Sandwiches,Opened 3 weeks ago,None,4.5 ,13 reviews
+5,Main Street Lounge,I love this place! The food is always on point. Great service. For being a new place and new owners they are doing a great job. Would recommend for brunch with…,Pizza,"Outdoor seating, Delivery, Takeout",None,4.5 ,46 reviews
+6,Blue Note Brewing Company,"Blue Note is a great local brewery which offers a wide range of beer styles which I can always find a favorite.
 
-I won't lie, any time I find myself patronizing a 'vegan' restaurant, I go in a little hesitant.
+They have plenty of seating inside and outside…",Breweries,"Outdoor seating, Delivery, Takeout",None,4.3 ,123 reviews
+7,Pete’s Restaurant & Brewhouse,"Visited this location on a weekday and it wasn't busy at all. The wait for service was very slow though although there were plenty of employees. 
 
-I WAS WRONG…",Burgers,"Outdoor seating, Delivery, Takeout",$$,4.7 ,idtown
-7,Historic Star Lounge,"Great ambiance, food, drinks, and service! A great find in the Sacramento area. Menu and drinks change frequently, and I'm always excited to get in and try…",Lounges,"Outdoor seating, Delivery",None,4.4 ,idtown
-8,Adamo’s,"Came to town to visit a friend and decided we wanted pasta!
+Once we got…",Pizza,"Outdoor seating, Delivery, Takeout",None,3.8 ,362 reviews
+8,Pupuseria La Chicana,"Incredible and wonderful and very good and delicious. To start the seating area is a little tent directly outside the interior, giving a homey, casual vibe.…",Mexican,"Outdoor seating, Takeout",None,4.3 ,492 reviews
+9,The HIVE Tasting Room and Kitchen,"If you want to do an amazing honey tasting, drive to this place!! 
+Great gift ideas!!!
+Lunch and special events also offered! So much honey- oh, and mead but…",American (New),"Outdoor seating, Delivery, Takeout",None,4.6 ,34 reviews
+10,Father Paddy’s,"This bar is great. The people who come here? Pretty awesome. Servers? Totally great. Food : We got GREAT bar food. 
 
-Oh mannnnnn! This was divine!
+This place reminds me of Philadelphia.…",Irish Pub,"Outdoor seating, Takeout",None,4.1 ,286 reviews
+11, Sakura,"We just had amazing service and phenomenal sushi! Their sushi sashimi for 2 was a great deal! Beautiful presentation, plus you get to choose two sushi rolls of…",Sushi Bars,"Outdoor seating, Delivery, Takeout",None,3.9 ,199 reviews
+12,Oyster Bar,"Welcome to Oyster Bar where you can find great Seafood available for delivery or takeout. With many years of journey in the hospitality industry, Oyster Bar has made a mark for…",Seafood,"Make an Online Reservation, Outdoor seating, Delivery, Takeout",None,4.1 ,237 reviews
+13,Jack in the Box,"So this review is about a very unique situation and the excellent customer service we got at this location: My cousin had a wedding up in Winters, CA, and as her fiance is Belgian,…",Burgers,"Delivery, Takeout",None,,
+14,The Ravine on Sixteen,"We, The Ravine On Sixteen are happy to welcome all visitors. We have dedicated ourselves to making sure your experience is enjoyable and memorable. We are Yolo County's new ""Place to…",Pizza,"Outdoor seating, Delivery, Takeout",None,4.2 ,46 reviews
+15, MAX TASTE - Lahorian Grill,,Indian,"Outdoor seating, Delivery, Takeout",None,4.3 ,73 reviews
+16, Kuji Asian Grill,"The food is delicious, the sushi comes around on the belt and a robot brings your drinks. It's a cool experience and perfect for sushi lovers",Korean,"Outdoor seating, Delivery, Takeout",None,4.7 ,382 reviews
+17, The Burger Saloon,"I've gotta say - these guys do burgers right. The menu is a little daunting (lots of options). But, I haven't had a bad burger yet.
 
-So first of all they make EVERYTHING in house (besides the tomatoes…",American (New),"Outdoor seating, Delivery, Takeout",$$,4.2 ,idtown
-9,Cafeteria 15L,"Nice ambience, the pancakes were good. Food service was quick but drink refills slow. Whatever you do DONT order the bottomless mimosas  they come in a plastic…",Breakfast & Brunch,"Outdoor seating, Delivery, Takeout",$$,3.9 ,owntown
-10,Fieldwork Brewing Company,"Friendly service and very good food. Pita with hummus and papitas is excellent. Wonderdul ioad and sours, always leave with a few for home. Please update the…",Breweries,"Outdoor seating, Delivery, Takeout",$$,4.4 ,idtown
-11, Frog & Slim,"Had a great dinner. The service was good. A place I would recommend UNTIL I checked the bill!  
-The martini was 14.00 with an additional $2.00 charge for the…",American (New),"Outdoor seating, Delivery, Takeout",$$,4.6 ,owntown
-12,Wingstop,,American (New),"Delivery, Takeout",None,3.8 ,12 reviews
-13,Jack in the Box,,American (New),"Delivery, Takeout",None,,ak Park
-14,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Salad,"Delivery, Takeout",None,5.0 ,2 reviews
-15, Roscoe’s Bar & Burgers,"Staff is very friendly and the design of the restaurant is amazing! 
+I also enjoy asking the…",Bars,"Outdoor seating, Delivery, Takeout",None,4.1 ,621 reviews
+18, Osaka Sushi Japanese Restaurant,I'm amazed they were even open afrer losing electricity because of the big fire that day. It was a birthday dinner for my sister and very much enjoyed it. Upon…,Japanese,"Waitlist is closed, Outdoor seating, Delivery, Takeout",None,4.0 ,370 reviews
+19, Doggeros,"We are always on the look out for a new spot to try out for lunch, also we don't head over to woodland very often so we decided to give it a shot.   One of the…",Burgers,"Outdoor seating, Delivery, Takeout",None,4.1 ,241 reviews
+20, After Hours Boba & Tea,"Love stopping here for a late night burg with my husband. First time we came, we split an order of mozzarella sticks and a bacon cheese burger. Everything was…",Bubble Tea,"Delivery, Takeout",None,3.9 ,36 reviews
+21, House of Shah Afghan Urban Eats,"Interesting Afghan American fusion spot in Woodland, CA of all places!
 
-Their fries here are so addicting, it makes you just wanna make that your own meal! The…",Burgers,"Outdoor seating, Delivery, Takeout",$$,4.4 ,70 reviews
-16, The Waterboy,"Always a pleasure heading to The Waterboy. One of Sacramento's staple Midtown restaurants that has stood the test of time for a reason. 
+I typically get the loaded salad with a chicken kabab. Full of fresh mixed lettuce…",Afghan,"Outdoor seating, Delivery, Takeout",None,4.5 ,322 reviews
+22, Corabella’s Restaurant,"Probably the best country fried chicken I've had to date, period.
 
-This intimate venue…",French,"Outdoor seating, Delivery, Takeout",$$$,4.1 ,983 reviews
-17, Prelude Kitchen & Bar,"I cannot believe that this place is not packed with people! Everyone of the dishes we had was DELICIOUS! And, the service was very good. Prelude has upped the…",American (New),"Outdoor seating, Delivery, Takeout",$$,4.1 ,268 reviews
-18, Mother,"Mother has returned. 
+The country potatoes were good but a bit salty.
 
-The bitter caesar was FANTASTIC.  Black eyed pees pretty spicy. Potato wedges spot on. 
+Service was fast and the young man who…",Breakfast & Brunch,"Outdoor seating, Delivery, Takeout",None,4.6 ,119 reviews
+23, Yaquis Cantina,Amazing street tacos ! Delicious margaritas and super fresh chips and salsa . Great customer service. The owner was very hospitable.,Mexican,,None,3.3 ,4 reviews
+24, Thai Pepper,"Food Was Fantastic 
+The Staff Super Friendly! 
+The Atmosphere Is Super Cool And Súper Meló 
+And Their Súper Clean Too ! 
+Great service . Will Definitely Come…",Thai,"Outdoor seating, Delivery, Takeout",None,4.2 ,153 reviews
+25,Oyster Bar,"Welcome to Oyster Bar where you can find great Seafood available for delivery or takeout. With many years of journey in the hospitality industry, Oyster Bar has made a mark for…",American (New),"Make an Online Reservation, Outdoor seating, Delivery, Takeout",None,4.1 ,237 reviews
+26,Jack in the Box,,Ice Cream & Frozen Yogurt,"Delivery, Takeout",None,,
+27,The Ravine on Sixteen,"We, The Ravine On Sixteen are happy to welcome all visitors. We have dedicated ourselves to making sure your experience is enjoyable and memorable. We are Yolo County's new ""Place to…",Burgers,"Outdoor seating, Delivery, Takeout",None,4.2 ,
+28, Falafel Corner,I have eaten here twice since they opened. It's more of a grab and go typed spot rather than a sit down restaurant with a server. I got a gyro bowl and falafel…,Fast Food,,None,4.8 ,
+29, Las Brasas Tacos & Salsas,"I had the tacos and they were amazing. It was my first time and the she talked us through the menu and recommended options based on what we liked. The chips,…",Tacos,"Outdoor seating, Delivery, Takeout",None,4.0 ,
+30, O Teriyaki,"Service 10/10
+Portions 10/10
+Food 10/10
 
-All hail Mother.",Vegan,,$$,4.1 ,811 reviews
-19, Tres Hermanas,Adore Tres Hermanas!! This place is always a vibe. An absolute delight to hang out with the family or friends. There food is very tasty; then add some Sangria…,Mexican,"Outdoor seating, Delivery, Takeout",$$,3.9 ,2.8k reviews
-20, Public House Downtown,Amazing food and service. They also have pepsi product which is a plus in my book. recommend,American (New),"Outdoor seating, Delivery, Takeout",$$,3.8 ,2k reviews
-21, Juju Kitchen & Cocktails,"5/5 business!! I stayed at the Residence Inn connected to this bar, but I didn't realize they were connected until the last night! It was so good I came back…",American (New),"Outdoor seating, Delivery, Takeout",None,4.3 ,89 reviews
-22, Kin Thai Street Eatery,Ordered some takeaway this week from Kin Thai.  I'd been really wanting to try this place but this strip of 20th Street can be a hassle to get to/park on so…,Thai,"Outdoor seating, Delivery, Takeout",$$,4.5 ,412 reviews
-23, Ink Eats & Drinks,"Great place for brunch. A bit of a wait line if you come in after 10:30AM on a weekend. 
+I am so happy that I found this little hole in the wall. It's a perfect little gem.",Hawaiian,Takeout,None,3.8 ,$
+31, Morgan’s Mill,This place is cool and their food is very good. I will be coming back to try more items and enjoy the vibes. The people working here were very nice and got me…,Coffee & Tea,"Outdoor seating, Takeout",None,4.2 ,
+32, The Meltdown,I ordered via DoorDash; food was pretty good! The sandwich had a lot of meat which I very much appreciated. The cheesecake toast dessert was a tiny bit dry and…,Food Delivery Services,Delivery,None,4.0 ,
+33, El Pantano Marisqueria,"las piñas coladas muy buenas  recomendadas
+tengan algo de paciencia que vale la pena toda la comida que ordene estaba muy buena",Seafood,"Outdoor seating, Delivery, Takeout",None,4.2 ,
+34, Birrieria Mooooy,"The BEST tacos I have EVER HAD IN CALI !  We drive 20 min from home just for their delicious tacos!!! Always friendly service!! 
 
-The food tasted amazing, potatoes are crunchy outside and soft…",American (Traditional),"Live wait time: 0 mins, Outdoor seating, Delivery, Takeout",$$,3.8 ,1.4k reviews
-24, Hook & Ladder Manufacturing,"I did a double day with my friends and decided to go here for the first time.  FYI Mondays are very limited for dining.   Good thing though, we really enjoyed…",Bars,"Outdoor seating, Delivery, Takeout",$$,3.9 ,1.3k reviews
-25,Sauced BBQ & Spirits - Sacramento,,Southern,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
+If you love some good carne…",Food Trucks,,None,4.8 ,
+35, Zitio Sports-Bar and Grill,Stopped by Zitios for a late night meal and drinks. We ordered a burrito and tacos which were sooo good! Spice level was perfect and the flavors rich. Service…,Sports Bars,"Outdoor seating, Takeout",None,3.9 ,
+36, Ranch Kitchen,"Delicious, friendly and cute !!! Thank you YELP and we will definitely be back next time we're in town",Breakfast & Brunch,"Outdoor seating, Delivery, Takeout",None,4.2 ,
+37, Savory Cafe,"Been 3 times and every time I been haven't been amazed. First time I went was the best, chicken and waffles. Went and 2nd time and got French toast and bacon…",Breakfast & Brunch,"Outdoor seating, Takeout",None,3.4 ,$
+38,Oyster Bar,"Welcome to Oyster Bar where you can find great Seafood available for delivery or takeout. With many years of journey in the hospitality industry, Oyster Bar has made a mark for…",Cajun/Creole,"Make an Online Reservation, Outdoor seating, Delivery, Takeout",None,4.1 ,atomas
