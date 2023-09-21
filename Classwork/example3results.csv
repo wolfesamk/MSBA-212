@@ -1,6 +1,6 @@
 Index,Name,Description,Cuisine,Features,Price,AverageReviewScore,NumberOfReviews
-0,Sauced BBQ & Spirits - Sacramento,,Southern,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
-1,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Pizza,"Delivery, Takeout",None,5.0 ,idtown
+0,Sauced BBQ & Spirits - Sacramento,,Sports Bars,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
+1,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Salad,"Delivery, Takeout",None,5.0 ,idtown
 2,Pocha House,"Our bartender, Felicia was very attentive and kind! She served us quickly and welcomed us as soon as we came in :)",Korean,"Outdoor seating, Takeout",$$,4.2 ,idtown
 3,Hidden Dumpling House Midtown,"This place is REALLY good. Well worth the wait, I don't think people should complain about having to wait a long time to get a table if it's always packed. The…",Chinese,"Waitlist opens at 11:00 am, Outdoor seating, Delivery, Takeout",$$,3.8 ,idtown
 4,The Rind,I went there for a last minute gathering one of the Managers was able to put together a nice charcuterie board for to-go for me! She was very Nice willingly to…,American (New),"Outdoor seating, Takeout",$$,4.4 ,idtown
@@ -20,9 +20,9 @@ So first of all they make EVERYTHING in house (besides the tomatoes…",American
 10,Fieldwork Brewing Company,"Friendly service and very good food. Pita with hummus and papitas is excellent. Wonderdul ioad and sours, always leave with a few for home. Please update the…",Breweries,"Outdoor seating, Delivery, Takeout",$$,4.4 ,idtown
 11, Frog & Slim,"Had a great dinner. The service was good. A place I would recommend UNTIL I checked the bill!  
 The martini was 14.00 with an additional $2.00 charge for the…",American (New),"Outdoor seating, Delivery, Takeout",$$,4.6 ,owntown
-12,Gameday Grill,"Great food and great customer service! I would recommend the jalapeño cheddar bacon burger. Everything was fresh, well prepared, and very flavorful. I will be back!",Food Trucks,,None,3.9 ,idtown
-13,Sauced BBQ & Spirits - Sacramento,,Southern,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
-14,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Desserts,"Delivery, Takeout",None,5.0 ,2 reviews
+12,Wingstop,,American (New),"Delivery, Takeout",None,3.8 ,12 reviews
+13,Jack in the Box,,American (New),"Delivery, Takeout",None,,ak Park
+14,Pizza Twist - Downtown,This location just opened and I couldn't be happier! I called my order in and Love told me all the specials. I ordered a small butter chicken pizza. Flavors were great and tasted…,Salad,"Delivery, Takeout",None,5.0 ,2 reviews
 15, Roscoe’s Bar & Burgers,"Staff is very friendly and the design of the restaurant is amazing! 
 
 Their fries here are so addicting, it makes you just wanna make that your own meal! The…",Burgers,"Outdoor seating, Delivery, Takeout",$$,4.4 ,70 reviews
@@ -43,4 +43,4 @@ All hail Mother.",Vegan,,$$,4.1 ,811 reviews
 
 The food tasted amazing, potatoes are crunchy outside and soft…",American (Traditional),"Live wait time: 0 mins, Outdoor seating, Delivery, Takeout",$$,3.8 ,1.4k reviews
 24, Hook & Ladder Manufacturing,"I did a double day with my friends and decided to go here for the first time.  FYI Mondays are very limited for dining.   Good thing though, we really enjoyed…",Bars,"Outdoor seating, Delivery, Takeout",$$,3.9 ,1.3k reviews
-25,Gameday Grill,"Great food and great customer service! I would recommend the jalapeño cheddar bacon burger. Everything was fresh, well prepared, and very flavorful. I will be back!",Burgers,,None,3.9 ,80 reviews
+25,Sauced BBQ & Spirits - Sacramento,,Southern,"Outdoor seating, Delivery, Takeout",None,3.7 ,1.6k reviews
