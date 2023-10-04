@@ -1,0 +1,691 @@
+Index,Index,text,likesCount,TextBlob Polarity Score,TextBlob Subjectivity Score,Vader Negative Polarity Score,Vader Neutral Polarity Score,Vader Positive Polarity Score,Vader Compound Polarity Score
+0,0,I love the Cheesecake Factory. I have never had a bad experience there!,27,-0.1874999999999999,0.6333333333333333,0.0,0.6,0.4,0.8096
+1,1,"Had an awful time Saturday night, thank goodness our waitress was great.",2,-0.09999999999999998,0.875,0.146,0.388,0.466,0.765
+2,2,Bring back the mushroom soup!,41,0.0,0.0,0.0,1.0,0.0,0.0
+3,3,FACT,5,0.0,0.0,0.0,1.0,0.0,0.0
+4,4,Bring back Boston House Salad,8,0.0,0.0,0.0,1.0,0.0,0.0
+5,5,It’s real Long now many choices I love it.,5,0.30833333333333335,0.5666666666666668,0.0,0.656,0.344,0.6369
+6,6,"When our daughter worked at The Cheesecake Factory Corporate Office in LA, she would bring a whole cheesecake when she flew back to florida.  We always looked forward to her visits! 😉",6,0.06666666666666667,0.13333333333333333,0.0,1.0,0.0,0.0
+7,7,Bring back spicy cashew chicken,8,-0.3,0.475,0.0,1.0,0.0,0.0
+8,8,Can’t wait for the new location in coconut Creek Florida to open next month.,4,0.04545454545454545,0.3181818181818182,0.0,1.0,0.0,0.0
+9,9,Bring back the shrimp blt!,7,0.0,0.0,0.0,1.0,0.0,0.0
+10,10,Bring back the stuffed cheddar burger 😡,1,0.0,0.0,0.0,1.0,0.0,0.0
+11,11,Bring back the different soup for every day of the week.,4,0.0,0.3,0.0,1.0,0.0,0.0
+12,12,Fact,1,0.0,0.0,0.0,1.0,0.0,0.0
+13,13,I miss the salmon fire cracker rolls,10,0.0,0.0,0.444,0.556,0.0,-0.4588
+14,14,Bring back the tons of fun burger.,6,0.15,0.1,0.0,0.645,0.355,0.5106
+15,15,Please bring back the Luau and Boston Bibb Salads.,2,0.0,0.0,0.0,0.777,0.223,0.3182
+16,16,Bring back Grilled Artichokes!,3,0.0,0.0,0.0,1.0,0.0,0.0
+17,17,"Idk. Bring back the chicken teriyaki, then we’ll talk.",0,-0.3,0.475,0.149,0.851,0.0,-0.1027
+18,18,Probably fact,2,0.0,0.0,0.0,1.0,0.0,0.0
+19,19,Not anymore!,2,0.0,0.0,0.0,1.0,0.0,0.0
+20,20,Bring back the 2 page menu!,8,0.0,0.0,0.0,1.0,0.0,0.0
+21,21,Fact,3,0.0,0.0,0.0,1.0,0.0,0.0
+22,22,I can’t say for sure as I was 2 but later it was long,3,0.15,0.4296296296296296,0.0,0.887,0.113,0.1655
+23,23,"Come to Myrtle Beach, SC",2,0.0,0.0,0.0,1.0,0.0,0.0
+24,24,"Fiction.  Even when Covid and the resulting supply chain problems struck, the abridged menu was still 47 pages long…😆",3,0.1,0.5,0.179,0.725,0.095,-0.296
+25,25,True?,2,0.35,0.65,0.0,0.0,1.0,0.4215
+26,26,True!,2,0.4375,0.65,0.0,0.0,1.0,0.4753
+27,27,Bring back the pork belly sliders,4,0.0,0.0,0.0,1.0,0.0,0.0
+28,28,Fact,3,0.0,0.0,0.0,1.0,0.0,0.0
+29,29,Fact,4,0.0,0.0,0.0,1.0,0.0,0.0
+30,30,Fact,2,0.0,0.0,0.0,1.0,0.0,0.0
+31,31,Fact,1,0.0,0.0,0.0,1.0,0.0,0.0
+32,32,Probably true,2,0.35,0.65,0.0,0.263,0.737,0.4215
+33,33,Fact,3,0.0,0.0,0.0,1.0,0.0,0.0
+34,34,"Bring back
+The Factory Burger on the sourdough",3,0.0,0.0,0.0,1.0,0.0,0.0
+35,35,Fiction.,3,0.0,0.0,0.0,1.0,0.0,0.0
+36,36,Fact,2,0.0,0.0,0.0,1.0,0.0,0.0
+37,37,Bring back the corn soup!! And the Luau salad!,3,0.0,0.0,0.0,1.0,0.0,0.0
+38,38,Bring one closer to ME!!! Lol,4,0.8,0.7,0.0,0.576,0.424,0.5684
+39,39,#Fact,2,0.0,0.0,0.0,1.0,0.0,0.0
+40,40,Love Chessecake Factory,0,0.5,0.6,0.0,0.323,0.677,0.6369
+41,41,Fact,1,0.0,0.0,0.0,1.0,0.0,0.0
+42,42,Fact,2,0.0,0.0,0.0,1.0,0.0,0.0
+43,43,The restaurant opened in 1978.,0,0.0,0.0,0.0,1.0,0.0,0.0
+44,44,Please bring back Chicken di Pana!!!,3,-0.5,0.475,0.0,0.612,0.388,0.4898
+45,45,Fact,1,0.0,0.0,0.0,1.0,0.0,0.0
+46,46,True,3,0.35,0.65,0.0,0.0,1.0,0.4215
+47,47,FACTory,2,0.0,0.0,0.0,1.0,0.0,0.0
+48,48,Ryan J. Cariglio,1,0.0,0.0,0.0,1.0,0.0,0.0
+49,49,Factory,2,0.0,0.0,0.0,1.0,0.0,0.0
+50,50,"Blodgett S. Jack Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+51,51,"Lisette Fields You look so beautiful. You have the best smile only the chief of Angels has which  means you of all the angels around the world🌹😊 I'm sorry for invading your privacy  I will love to know you more, Kindly send me a Friend request. If you happen to find this message embarrassing, please pardon my manners... Thank you😔😔",0,0.40625,0.675,0.04,0.566,0.394,0.9866
+52,52,"Jonathan XiXiv Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+53,53,"Jonathan XiXiv 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+54,54,"Blake Cariglio Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+55,55,"Kathy Baylor Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+56,56,"Jessica Kelly-Brown Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+57,57,"Jessica Kelly-Brown 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+58,58,"Linda Wright Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+59,59,"Linda Wright 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+60,60,"Monique Salerno Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+61,61,"Monique Salerno 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+62,62,"Monique Salerno Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+63,63,"Letitia 'Teecee Bunny' Greene Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.694,0.306,0.9856
+64,64,"Letitia 'Teecee Bunny' Greene 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.94,0.06,0.6369
+65,65,"Dev P Degges 😍I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day,thank you and stay blessed 🌹🌺💙",0,0.525,0.625,0.064,0.62,0.316,0.9807
+66,66,"Dev P Degges I always enjoy what you share here on Facebook but we're not friends yet, I've tried several times to send you request but is not going through. Do you mind trying from your end, I'll be glad to be friends with you. If you find this message embarrassing, please pardon my manners🙏🌹🌹....Thank you",0,0.3,0.5,0.088,0.68,0.232,0.8756
+67,67,"Dev P Degges Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+68,68,"Dev P Degges God answers our prayers In different ways, GOD change my life for good  through binary option trade  with the help of Mr George Paltan, His trading techniques are so unique ...Click the link below to contact Him and change your financial status
+📥📥📥
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.26875,0.55,0.0,0.823,0.177,0.8602
+69,69,"Tina Little Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.2854166666666667,0.5416666666666666,0.0,0.692,0.308,0.9848
+70,70,"Tina Little 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.40625,0.4,0.0,0.938,0.062,0.6369
+71,71,"Linda Keefer Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",1,0.38,0.55,0.0,0.688,0.312,0.9856
+72,72,"Linda Keefer 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",1,1.0,0.3,0.0,0.938,0.062,0.6369
+73,73,Linda Keefer Why,0,0.0,0.0,0.0,1.0,0.0,0.0
+74,74,"Linda Keefer Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",2,0.5,0.5625,0.062,0.61,0.327,0.9844
+75,75,"Linda Keefer You look so beautiful. You have the best smile only the chief of Angels has which  means you of all the angels around the world🌹😊 I'm sorry for invading your privacy  I will love to know you more, Kindly send me a Friend request. If you happen to find this message embarrassing, please pardon my manners... Thank you😔😔",1,0.40625,0.675,0.04,0.566,0.394,0.9866
+76,76,"Allen Gillis Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.23017815517815518,0.6294094794094792,0.025,0.633,0.342,0.9948
+77,77,"Jane Berg Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+78,78,"Jane Berg 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+79,79,"Nicole O'Brien Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+80,80,"Nicole O'Brien 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+81,81,"Joel Gladstein Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+82,82,"Joel Gladstein God answers our prayers In different ways, GOD change my life for good  through binary option trade  with the help of Mr George Paltan, His trading techniques are so unique ...Click the link below to contact Him and change your financial status
+📥📥📥
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.26875,0.55,0.0,0.82,0.18,0.8602
+83,83,"Jessie Lanier-Luckey Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+84,84,"Jessie Lanier-Luckey God answers our prayers In different ways, GOD change my life for good  through binary option trade  with the help of Mr George Paltan, His trading techniques are so unique ...Click the link below to contact Him and change your financial status
+📥📥📥
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.26875,0.55,0.0,0.82,0.18,0.8602
+85,85,"Jessie Lanier-Luckey Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+86,86,"Rose M Banks Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.4166666666666667,0.6166666666666667,0.0,0.691,0.309,0.9856
+87,87,"Rose M Banks 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.8,0.625,0.0,0.939,0.061,0.6369
+88,88,"Linda Kierstein Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.23017815517815518,0.6294094794094792,0.025,0.633,0.342,0.9948
+89,89,Linda Kierstein .That special smile on your face always keep it up because that make you beautiful. can I ask you a question?,0,0.5023809523809524,0.557142857142857,0.0,0.687,0.313,0.8442
+90,90,"Linda Kierstein Hello Linda 
+How're you doing, sorry to ask where're you writing from?",0,-0.5,1.0,0.091,0.909,0.0,-0.0772
+91,91,"Linda Kierstein Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+92,92,"Linda Kierstein 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+93,93,"Rose Price Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.4166666666666667,0.6166666666666667,0.0,0.688,0.312,0.9856
+94,94,"Rose Price  Hello...... your post are wonderful but I don't think we're friends here in Facebook,if you don't mind can you please kindly add me too as your friend 🙏 I'm tried adding you to mine but us not going through,I will be really glad if I can get a reply from you but then I'm sorry to have  invaded your privacy please accept my apology.thank you",0,0.44000000000000006,0.97,0.054,0.667,0.279,0.9679
+95,95,"Elvis Wilson please don’t send me things like this. 
+Thanks!",0,0.25,0.2,0.0,0.453,0.547,0.816
+96,96,"Rose Price 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.8,0.625,0.0,0.938,0.062,0.6369
+97,97,"Michael Barnard Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+98,98,"Michael Barnard I’m proud to serve the United state…I actually love this post and your comment,you deserve my comment for saying such,I found you interesting and also clever ,but tried sending you a friend request but I couldn’t 😏😒I will be so glad if you can send me a friend request here on Facebook ,I still stand for the flag 🇺🇸",0,0.49333333333333335,0.7866666666666667,0.0,0.697,0.303,0.9729
+99,99,"Michael Barnard 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+100,100,"Brenda'n Lee Kinton Apologies for dropping this here but it feels too great to visit your timeline, I always enjoy what you share here on Facebook but we're not friends yet, I have tried several times to send the friend request but it's not going through. Do you mind trying from your side? If you find this message embarrassing please pardon my manners Thank you.🌹🌹🌹🌹🌹💕🙏❤️ XOXO",0,0.4000000000000001,0.4166666666666667,0.06,0.592,0.348,0.9882
+101,101,"Brenda'n Lee Kinton Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+102,102,"Brenda'n Lee Kinton 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.939,0.061,0.6369
+103,103,"Brenda'n Lee Kinton Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.614,0.324,0.9844
+104,104,"Jonny Pants Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+105,105,"Jonny Pants I always enjoy what you share here on Facebook but we're not friends yet, I've tried several times to send you request but is not going through. Do you mind trying from your end, I'll be glad to be friends with you. If you find this message embarrassing, please pardon my manners🙏🌹🌹....Thank you",0,0.3,0.5,0.089,0.676,0.235,0.8756
+106,106,"Jonny Pants Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+107,107,"Jonny Pants 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+108,108,"Jonny Pants Heck no, expand it 2 more pages!",0,0.625,0.5,0.0,0.755,0.245,0.3802
+109,109,"Joy Smith Hello Joy 
+How're you doing?",0,0.8,0.2,0.0,0.397,0.603,0.8225
+110,110,"Joy Smith Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.45,0.4916666666666667,0.0,0.661,0.339,0.9885
+111,111,"Joy Smith 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.9,0.25,0.0,0.887,0.113,0.8402
+112,112,"Joy Smith Hello, I'm so sorry if this sounds weird, but you have such beautiful and wonderful posts on your site. I can say that you are a very positive person. If it's all right with you, I'd like us to be friends. Send me a friend request or an inbox message if you are interested in my friendship 🙂🙂🙂 thanks",0,0.2681168831168831,0.6644805194805194,0.025,0.5,0.475,0.9948
+113,113,"Devon Antos Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+114,114,"Devon Antos Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+115,115,"Devon Antos Paul Reimringer Hello...... your post are wonderful but I don't think we're friends here in Facebook,if you don't mind can you please kindly add me too as your friend 🙏 I'm tried adding you to mine but us not going through,I will be really glad if I can get a reply from you but then I'm sorry to have  invaded your privacy please accept my apology.thank you",0,0.4,0.975,0.053,0.674,0.273,0.9679
+116,116,"Devon Antos 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+117,117,"Brianna Cowart Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+118,118,"Brianna Cowart 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+119,119,"Chris Dawson Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+120,120,"Bryan Lamiano Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+121,121,Bryan Lamiano yes Luau was my most favorite salad !,2,0.5625,0.75,0.0,0.56,0.44,0.7419
+122,122,"Rita Haddad Stallard Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+123,123,"Rita Haddad Stallard 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.939,0.061,0.6369
+124,124,Nicky Nancy ok but only if they are for bringing back the tons of fun burger.,0,0.2,0.425,0.0,0.698,0.302,0.7227
+125,125,"Robert Hartley Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+126,126,"Robert Hartley 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+127,127,"Doris Mitchell Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+128,128,"Doris Mitchell Hello 👋 are you doing today, friendship islln’t about whom you have known the longest, it is about someone you can talk to about anything. Well it’s will be so kind if you can sent me friend request as I don’t know if you are comfortable with me sending you one and Can you please sent me friend request please💐💐",0,0.5,0.8500000000000001,0.0,0.676,0.324,0.9773
+129,129,"Mark Williams why would anyone want to add a stranger who says that sort of thing? They are either dangerously disillusioned or a scammer , and I am pretty sure you are a scammer or a bot. What are you trying to achieve ?",0,0.05000000000000001,0.9296296296296296,0.113,0.749,0.138,-0.1179
+130,130,"Greg Bangs Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+131,131,"Greg Bangs 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+132,132,"DM Pavao Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+133,133,"Carol Fairman Apologies for dropping this here but it feels too great to visit your timeline, I always enjoy what you share here on Facebook but we're not friends yet, I have tried several times to send the friend request but it's not going through. Do you mind trying from your side? If you find this message embarrassing please pardon my manners Thank you.🌹🌹🌹🌹🌹💕🙏❤️ XOXO",0,0.4000000000000001,0.4166666666666667,0.061,0.588,0.351,0.9882
+134,134,"Carol Fairman Hello Good morning, I tried sending you a friend request just now and it's not working, send me a friend request if you don't mind me asking",0,0.7,0.6000000000000001,0.0,0.737,0.263,0.8519
+135,135,Carol Fairman Hello 👋 Send me a text on messenger i have a question for you it's private,0,0.0,0.375,0.0,0.849,0.151,0.4939
+136,136,"Carol Fairman Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.23017815517815518,0.6294094794094792,0.025,0.633,0.342,0.9948
+137,137,Carol Fairman .That special smile on your face always keep it up because that make you beautiful. can I ask you a question?,0,0.5023809523809524,0.557142857142857,0.0,0.687,0.313,0.8442
+138,138,"Carol Fairman Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+139,139,"Carol Fairman Contact George Paltan for more details on how to start receiving good weekly income from your comfort zone through Bitcoin trading company platform. Click on the link below to contact the manager for more information......
+👇👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.5666666666666667,0.5333333333333333,0.0,0.923,0.077,0.6597
+140,140,"Carol Fairman 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+141,141,"Carol Fairman Hello dear, how are you doing today? hope you're having a great day?",0,0.8,0.75,0.0,0.546,0.454,0.8738
+142,142,"Carol Fairman Hello 👋, I always enjoy what you share here on Facebook but we're are not friends yet, I have tried to send you a friend request but not going through. Do you mind trying from your side?  I will be happy to be your friend. If you find this messages embarrassing please 🙏 pardon my manners. Thank you",0,0.6000000000000001,0.75,0.078,0.591,0.331,0.9677
+143,143,"Carol Fairman Hello,my apologies for writing you so directly here on this the comment section.well with all due respect I would love to be your friend. But I felt I would be impolite to send you a friend request without your consent. I will really appreciate if you willing add me up as a friend of yours 🥀🥀",0,0.185,0.465,0.069,0.682,0.249,0.9318
+144,144,Susan Fairman yea David’s October 25. Lol,1,0.8,0.7,0.0,0.682,0.318,0.4215
+145,145,Carol Fairman in time for someone's birthday lol,1,0.8,0.7,0.0,0.714,0.286,0.4215
+146,146,"Nicky Nancy is lost my Rottie end of December 2022,
+I need a new LOML (love of my life)",0,0.3181818181818182,0.5272727272727272,0.098,0.723,0.179,0.4404
+147,147,Nicky Nancy omg they r so gorgeous,0,0.7,0.9,0.0,0.54,0.46,0.7283
+148,148,"Pat Stephenson Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+149,149,PRETTY PLEASE!🙏 🧑‍🍳,0,0.25,1.0,0.0,0.355,0.645,0.8052
+150,150,"Kaitlyn Barrett Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+151,151,"Kimberly Taylor Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+152,152,"Kimberly Taylor 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+153,153,"Kimberly Taylor Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+154,154,"Lisa McGaughey Ryan Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.23017815517815518,0.6294094794094792,0.025,0.635,0.341,0.9948
+155,155,"Lisa McGaughey Ryan I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day🌹🌹",0,0.525,0.625,0.079,0.688,0.233,0.9229
+156,156,"Lisa McGaughey Ryan Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+157,157,"Lisa McGaughey Ryan 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.939,0.061,0.6369
+158,158,"Lisa McGaughey Ryan Hello, I'm so sorry if this sounds weird, but you have such beautiful and wonderful posts on your site. I can say that you are a very positive person. If it's all right with you, I'd like us to be friends. Send me a friend request or an inbox message if you are interested in my friendship 🙂🙂🙂 thanks",0,0.209018759018759,0.7160894660894661,0.025,0.52,0.455,0.9943
+159,159,"Lisa McGaughey Ryan Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.614,0.324,0.9844
+160,160,"Lisa McGaughey Ryan Hello dear, how are you doing today? hope you're having a great day?",0,0.8,0.75,0.0,0.566,0.434,0.8738
+161,161,"Lisa McGaughey Ryan You look so beautiful. You have the best smile only the chief of Angels has which  means you of all the angels around the world🌹😊 I'm sorry for invading your privacy  I will love to know you more, Kindly send me a Friend request. If you happen to find this message embarrassing, please pardon my manners... Thank you😔😔",0,0.40625,0.675,0.04,0.57,0.39,0.9866
+162,162,"Carla McClure How are you doing? sorry for barging in your privacy, I'm very sure nobody will skip your profile I will love to have you ask a friend, I can't send you a friendship request without your permission, can you kindly send me a friend request if you don't mind",0,0.3125,0.875,0.02,0.681,0.299,0.9583
+163,163,"Carla McClure Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+164,164,"Carla McClure 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+165,165,"Carla McClure Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+166,166,"Carla McClure Hello dear, how are you doing today? hope you're having a great day?",0,0.8,0.75,0.0,0.546,0.454,0.8738
+167,167,"Jeanne Amundson Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+168,168,"Jeanne Amundson 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+169,169,Jeanne Amundson hello there how are you doing if you don't mind can you please send me a friend request,0,0.0,0.0,0.0,0.766,0.234,0.6705
+170,170,"Tyshawn Grant Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.396,0.604,0.9878
+171,171,"Tyshawn Grant Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.669,0.331,0.9873
+172,172,"Tyshawn Grant Hi dear l'm new on this page, a friend of mine introduce me to facebook couple of months ago, your post are wonderful but I don't think we are friends yet on facebook,l actually send you request but initially not through please if you don't mind can you send me a friend request so we can be friends here💕💕🇺🇸🥰",0,0.28409090909090906,0.38863636363636367,0.025,0.602,0.373,0.9883
+173,173,"Doris Mitchell I pray God to give you a perfect gift of health, life, May your day be filled with happiness and joy and may you be filled with thousands of smile....stay safe I always enjoy what you share here on your profile but we're not friends on Facebook only on the this page I tried to send you a friend request but couldn't send please can you add me up if you don't mind or send me a direct message please and if you don't find this message pleasant, I'm sorry 🙏🙏",0,0.41212121212121205,0.687878787878788,0.062,0.695,0.243,0.9519
+174,174,"Doris Mitchell Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+175,175,"Doris Mitchell I always enjoy what you share here on Facebook but we're not friends yet, I've tried several times to send you request but is not going through. Do you mind trying from your end, I'll be glad to be friends with you. If you find this message embarrassing, please pardon my manners🙏🌹🌹....Thank you",0,0.3,0.5,0.089,0.676,0.235,0.8756
+176,176,"Doris Mitchell Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+177,177,"Doris Mitchell I always enjoy what you share here on Facebook but we're not friends yet, I've tried several times to send you request but is not going through. Do you mind trying from your end, I'll be glad to be friends with you. If you find this message embarrassing, please pardon my manners😔😔....Thank you",0,0.3,0.5,0.088,0.642,0.27,0.8983
+178,178,"Doris Mitchell Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+179,179,"Doris Mitchell Hi dear l'm new on this page, a friend of mine introduce me to facebook couple of months ago, your post are wonderful but I don't think we are friends yet on facebook,l actually send you request but initially not through please if you don't mind can you send me a friend request so we can be friends here💕💕🇺🇸🥰",0,0.28409090909090906,0.38863636363636367,0.025,0.617,0.358,0.9875
+180,180,Doris Mitchell  🐦🎼😇🍀wow!!yes  https://demotwo.vercel.app/,0,0.0,0.0,0.0,0.77,0.23,0.555
+181,181,"Doris Mitchell You look so beautiful. You have the best smile only the chief of Angels has which  means you of all the angels around the world🌹😊 I'm sorry for invading your privacy  I will love to know you more, Kindly send me a Friend request. If you happen to find this message embarrassing, please pardon my manners... Thank you😔😔",0,0.40625,0.675,0.04,0.566,0.394,0.9866
+182,182,Charlie Reid Hi can we be friends if you don't mind you can send me friend request.,0,0.0,0.0,0.0,0.704,0.296,0.743
+183,183,"Charlie Reid Apologies for dropping this here but it feels too great to visit your timeline, I always enjoy what you share here on Facebook but we're not friends yet, I have tried several times to send the friend request but it's not going through. Do you mind trying from your side? If you find this message embarrassing please pardon my manners Thank you.🌹🌹🌹🌹🌹💕🙏❤️ XOXO",0,0.4000000000000001,0.4166666666666667,0.061,0.588,0.351,0.9882
+184,184,"Charlie Reid Please can you send me friend request I wanna be friends with you, but I couldn't add you! 😊😊",0,0.0,0.0,0.073,0.519,0.408,0.9309
+185,185,"Charlie Reid I always enjoy what you share here on Facebook but we're not friends yet, I've tried several times to send you request but is not going through. Do you mind trying from your end, I'll be glad to be friends with you. If you find this message embarrassing, please pardon my manners🙏🌹🌹....Thank you",0,0.3,0.5,0.089,0.676,0.235,0.8756
+186,186,Charlie Reid  🐖🛒😘🌺  Good things take time.  https://janwarasakulokut.vercel.app/,0,0.7,0.6000000000000001,0.0,0.695,0.305,0.6908
+187,187,"Charlie Reid Hello Good morning, I tried sending you a friend request just now and it's not working, send me a friend request if you don't mind me asking",0,0.7,0.6000000000000001,0.0,0.737,0.263,0.8519
+188,188,Charlie Reid  😺🥇😚🔥relaxday-online  https://vidosbook.vercel.app/,0,0.0,0.0,0.0,0.563,0.437,0.8519
+189,189,"Charlie Reid Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.23017815517815518,0.6294094794094792,0.025,0.633,0.342,0.9948
+190,190,Charlie Reid .That special smile on your face always keep it up because that make you beautiful. can I ask you a question?,0,0.5023809523809524,0.557142857142857,0.0,0.687,0.313,0.8442
+191,191,"Charlie Reid I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day🌹🌹",0,0.525,0.625,0.079,0.684,0.236,0.9229
+192,192,Charlie Reid  🐋🛍😊🏵wow!!yes  https://demotwo.vercel.app/,0,0.0,0.0,0.0,0.603,0.397,0.7639
+193,193,Charlie Reid 🐫🎳😍💫wow!!love you  https://projeckone.vercel.app/,0,0.0,0.0,0.0,0.754,0.246,0.555
+194,194,"Charlie Reid  🐴🏹😌💫 No guts, no story.  https://pongpaisanononra.vercel.app/",0,0.0,0.0,0.209,0.562,0.229,0.0997
+195,195,Charlie Reid  🐯🛒🙂⚡Hurry and watch before it gets deleted.  https://nazaspendtime.vercel.app/,0,0.0,0.0,0.0,0.863,0.137,0.4033
+196,196,"Charlie Reid Hello, how are you doing? Well, I tried sending you a friend request but it didn’t go through, hope you don’t mind sending me one.",0,0.0,0.0,0.0,0.762,0.238,0.7579
+197,197,"Charlie Reid How are you doing? sorry for barging in your privacy, I'm very sure nobody will skip your profile I will love to have you ask a friend, I can't send you a friendship request without your permission, can you kindly send me a friend request if you don't mind",0,0.3125,0.875,0.02,0.681,0.299,0.9583
+198,198,"Charlie Reid Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+199,199,Charlie Reid  🐸🎻😘🎍territoriodaespinha https://demotwo.vercel.app/,0,0.0,0.0,0.0,0.797,0.203,0.4215
+200,200,Charlie Reid  🐜🏉😆🌳very impressed  https://online-rerax.vercel.app/,0,1.0,1.0,0.0,0.641,0.359,0.6808
+201,201,"Charlie Reid 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+202,202,Charlie Reid  🐨🎁😀🌵wow!!yes  https://demotwo.vercel.app/,0,0.0,0.0,0.0,0.539,0.461,0.717
+203,203,Charlie Reid  🐿🎤😜🏵 You are your home.  https://jiraponirapon.vercel.app/,0,0.0,0.0,0.0,1.0,0.0,0.0
+204,204,Charlie Reid  🦆🛍🙂🌍You have to keep it like this.   https://anatoland.vercel.app/,0,0.0,0.0,0.0,0.754,0.246,0.6378
+205,205,Charlie Reid 🐢👗🙂🌟wow!!love you  https://projeckone.vercel.app/,0,0.0,0.0,0.0,0.752,0.248,0.5091
+206,206,"Charlie Reid Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+207,207,"Charlie Reid Hello dear, how are you doing today? hope you're having a great day?",0,0.8,0.75,0.0,0.546,0.454,0.8738
+208,208,"Charlie Reid Hello 👋, I always enjoy what you share here on Facebook but we're are not friends yet, I have tried to send you a friend request but not going through. Do you mind trying from your side?  I will be happy to be your friend. If you find this messages embarrassing please 🙏 pardon my manners. Thank you",0,0.6000000000000001,0.75,0.078,0.591,0.331,0.9677
+209,209,"Charlie Reid Hello 👋👋 how are you doing today I hope you are having a wonderful day so far, I'm new here on Facebook...I like your comment I tried to send you friend request but it can't send can you send me a friend request",0,0.4121212121212121,0.8181818181818182,0.0,0.711,0.289,0.928
+210,210,Charlie Reid 🐣👡😝⚡ Turn your wounds into wisdom. https://pasakuleeseman.vercel.app/,0,0.0,0.0,0.0,0.833,0.167,0.5267
+211,211,"Charlie Reid Hi dear l'm new on this page, a friend of mine introduce me to facebook couple of months ago, your post are wonderful but I don't think we are friends yet on facebook,l actually send you request but initially not through please if you don't mind can you send me a friend request so we can be friends here💕💕🇺🇸🥰",0,0.28409090909090906,0.38863636363636367,0.025,0.617,0.358,0.9875
+212,212,Charlie Reid  🐏💛😘🍄omg!wow  https://newprojeck-six.vercel.app/,0,0.0,0.0,0.0,0.552,0.448,0.807
+213,213,Charlie Reid  🐩🏹😅🍄All of them are beautiful.   https://anatoland-chaychaimri01-gmailcom.vercel.app/,0,0.85,1.0,0.0,0.686,0.314,0.7506
+214,214,Charlie Reid  🐝🥇😝🌺wow!!yes  https://demotwo.vercel.app/,0,0.0,0.0,0.0,0.749,0.251,0.5696
+215,215,Rose Price  🐋💕🤣🌎You have to keep it like this.  https://daylinews.vercel.app/,0,0.6,0.95,0.0,0.63,0.37,0.875
+216,216,"Rose Price  🐍🥈😏🍂 No guts, no story.  https://pongpaisanononra.vercel.app/",0,0.6,0.95,0.227,0.532,0.241,0.0742
+217,217,Rose Price 🐻💋😍🍃wow!!love you  https://projeckone.vercel.app/,0,0.6,0.95,0.0,0.687,0.313,0.7494
+218,218,Rose Price  🦁👄😆💥 The Best is yet to come  https://chotawanichhiyrqq.vercel.app/,0,0.8,0.625,0.113,0.586,0.302,0.6369
+219,219,Rose Price  🐉⛑😆🍀Hurry and watch before it gets deleted.  https://daylinews.vercel.app/,0,0.6,0.95,0.0,0.746,0.254,0.7003
+220,220,"Rose Price Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",0,0.2565940012368584,0.6523088023088022,0.025,0.633,0.342,0.9948
+221,221,Rose Price  🐳🎈😉🌳All of them are beautiful.   https://anatoland-chaychaimri01-gmailcom.vercel.app/,0,0.725,0.975,0.0,0.769,0.231,0.5994
+222,222,Rose Price  🐬👜😀☄Say Yes if you want to see videos  https://newprojeck-six.vercel.app/,0,0.6,0.95,0.0,0.649,0.351,0.6705
+223,223,Rose Price  😿🏉🤣💥 See the good in yourself. https://udomaekhiot.vercel.app/,0,0.6499999999999999,0.775,0.21,0.562,0.228,0.128
+224,224,Rose Price 🦃🎓😀🌺wow!!love you  https://nazanew-walltrue.vercel.app/,0,0.6,0.95,0.0,0.745,0.255,0.4738
+225,225,"Rose Price How are you doing? sorry for barging in your privacy, I'm very sure nobody will skip your profile I will love to have you ask a friend, I can't send you a friendship request without your permission, can you kindly send me a friend request if you don't mind",0,0.37,0.89,0.02,0.681,0.299,0.9583
+226,226,"Rose Price Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.4166666666666667,0.6166666666666667,0.0,0.688,0.312,0.9856
+227,227,Rose Price  🐪🥁😋☔omg!wow  https://newprojeck-six.vercel.app/,0,0.6,0.95,0.0,1.0,0.0,0.0
+228,228,Rose Price  🐔🎶😊🍂territoriodaespinha https://demotwo.vercel.app/,0,0.6,0.95,0.135,0.541,0.324,0.5423
+229,229,"Rose Price 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,0.8,0.625,0.0,0.938,0.062,0.6369
+230,230,Rose Price  🐝🎣😛🌴wow!!yes  https://demotwo.vercel.app/,0,0.6,0.95,0.0,1.0,0.0,0.0
+231,231,"Rose Price  🐤💙😄🌿 No Rain, No Flower. https://pongtanapatorterorter.vercel.app/",0,0.6,0.95,0.085,0.465,0.449,0.8551
+232,232,Rose Price 🐎🏏🙂🌺wow!!love you  https://projeckone.vercel.app/,0,0.6,0.95,0.0,0.752,0.248,0.5091
+233,233,Rose Price  🐘🏀🤣🎍 Trust the timing in your life.  https://nichamonfartinez.vercel.app/,0,0.6,0.95,0.0,0.711,0.289,0.7579
+234,234,Rose Price  🦏🏒😏🍂omg!wow  https://newprojeck-six.vercel.app/,0,0.6,0.95,0.237,0.763,0.0,-0.4199
+235,235,"Re Dona Elin Morgan Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.694,0.306,0.9856
+236,236,"Re Dona Elin Morgan 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.94,0.06,0.6369
+237,237,"Brenda Will Please can you send me friend request I wanna be friends with you, but I couldn't add you! 😊😊",0,0.0,0.0,0.073,0.519,0.408,0.9309
+238,238,"Brenda Will Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+239,239,"Brenda Will 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+240,240,"Brenda Will Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+241,241,Bring back Spicy cashew chicken onto your menu,9,-0.3,0.475,0.0,1.0,0.0,0.0
+242,242,Fact,1,0.0,0.0,0.0,1.0,0.0,0.0
+243,243,Bring back the Factory Burrito!,6,0.0,0.0,0.0,1.0,0.0,0.0
+244,244,Factory,1,0.0,0.0,0.0,1.0,0.0,0.0
+245,245,"The last time a friend and I were at the cheesecake factory, in July, we weren't impressed. The menu is way too big, always has been! (Robert Irvine would cut that down to 1 or 2 pages!) All of the things we really liked to order are not on the menu anymore. And the cheesecake slices were smaller than before. We decided we will eat somewhere else and just go there to get a piece of cheesecake to go.",4,0.23425925925925925,0.45925925925925926,0.054,0.867,0.079,0.4978
+246,246,Need the macadamia nut cheesecake! Bring it back!,6,0.0,0.0,0.0,1.0,0.0,0.0
+247,247,"Bring back the Samosas, pretzel crusted chicken, and the Flatbread with roasted pear, but with Feta cheese, not blue cheese.",8,-0.19999999999999998,0.35000000000000003,0.0,1.0,0.0,0.0
+248,248,Bring back the chocolate raspberry cheesecake.  Not the one with white chocolate.,9,0.0,0.0,0.0,1.0,0.0,0.0
+249,249,Why make me so sad. You give me tiramisu cheesecake but no coffee flavor and it's dry... but why cheesecake factory?,0,-0.2833333333333333,0.8,0.218,0.782,0.0,-0.6481
+250,250,Bring back fry bread taco .,3,0.0,0.0,0.0,1.0,0.0,0.0
+251,251,"I used to love the cheesecake factory, but over the past several years,quality has dropped.  I no long visit. I miss it, but not worth my money.",1,0.025000000000000005,0.27,0.207,0.712,0.08,-0.4765
+252,252,Fiction. It has NEVER been two pages.  No way.,2,0.0,0.0,0.216,0.784,0.0,-0.296
+253,253,wasnt born lol,1,0.8,0.7,0.538,0.462,0.0,-0.3252
+254,254,Too many choices now.,1,0.5,0.5,0.0,1.0,0.0,0.0
+255,255,I'll admit to being overwhelmed the first time I looked at the menu. So many options made it hard to decide.,1,0.15277777777777776,0.4583333333333333,0.062,0.804,0.134,0.1531
+256,256,"Please more low sodium non mushroom vegetarian options! 
+PPPLLLLEEEEEEAAAAAAAASSSSSSSSEEEEEEEEEE!!!",2,0.25,0.4,0.277,0.544,0.179,-0.3096
+257,257,"I still have a menu from 1987 somewhere ; I live in Australia, wrote asking for one, and they sent me one (lived in L.A. in 86/87) !",2,0.17045454545454544,0.5,0.0,1.0,0.0,0.0
+258,258,I think it was 3 pages,2,0.0,0.0,0.0,1.0,0.0,0.0
+259,259,"Change back to a smaller menu, I beg of you",2,0.0,0.25,0.0,1.0,0.0,0.0
+260,260,Still reading your menu lol 😉,16,0.8,0.7,0.0,0.682,0.318,0.4215
+261,261,I think it's true,1,0.35,0.65,0.0,0.517,0.483,0.4215
+262,262,"Went to Cheesecake Factory at Christiana Mall last Sunday - ordered the Cuban sandwich. Was very dissatisfied.  Not a lot of meat on the sandwich,  and whomever prepared the sandwich must have shifted it or dropped it onto the plate as they were going to cut it in half. When it was brought to my table,  cut in half,  all of the meat was on one half - the other half had nothing on it. I took half of the meat from the one side and put it on thy empty side... very messy and very small portions on the sandwich in a whole.  Really bad for the price I paid.",1,-0.14948717948717946,0.32166666666666666,0.128,0.857,0.016,-0.9114
+263,263,And that would be good enough!,3,0.35,0.55,0.0,0.61,0.39,0.4926
+264,264,"OMG!!! I'm so proud and happy to be out here today sharing the Good work of owegbe I just can't believe that now my ex Lover is really back to me on his knees presenting a Ruby rose to ask for my forgiveness to take him back and he was feeling regretful and sorry for leaving me and for causing me pains after the Divorce which occurred last Year..
+👇🏽👇🏽👇🏽👇🏽👇🏽.
+
+ Dr. Owegbe love spell templee",0,0.3222222222222222,0.5796296296296295,0.053,0.747,0.199,0.9644
+265,265,The menu now is way too massive. Needs to be smaller.,18,0.0,0.75,0.0,1.0,0.0,0.0
+266,266,Regardless bring back the 1977 prices!🤣😅,10,0.0,0.0,0.0,0.684,0.316,0.7177
+267,267,..... no it was bigger,1,0.0,0.5,0.355,0.645,0.0,-0.296
+268,268,No idea. Never heard of The Cheesecake Factory in 1977.,2,0.0,0.0,0.196,0.804,0.0,-0.296
+269,269,Now it is a book.,2,0.0,0.0,0.0,1.0,0.0,0.0
+270,270,Ever think of doing a limited Retro-Menu era for a few weeks?,2,-0.13571428571428573,0.12142857142857143,0.147,0.853,0.0,-0.2263
+271,271,"It was a dream come through when my ex lover called to apologize for leaving me, And that is willing to do anything to get me back. I was speechless when he was saying all these over the phone because these were my request when I contacted Dr James. And in matters of hours Dr James made it a reality, Get your Ex back or any spiritual spell you may want, don't be ashamed of your issues, seek help and get it solved
+👇👇👇
+https://www.facebook.com/Dr-James-solution-temple-104199835208353/",0,0.0625,0.22083333333333333,0.0,0.838,0.162,0.9178
+272,272,"I've been having bad times in my marriage for the past months with my wife & I never thought things could change so easily for me and my partner, everything was possible with the help of  https://www.facebook.com/Dr-Oku-temple-114147387163908/",0,-0.12916666666666662,0.6875,0.081,0.785,0.134,0.3218
+273,273,Were yr cheesecakes “over priced” like they r now🤔🤔🤔,1,0.0,0.0,0.0,0.848,0.152,0.3612
+274,274,Fact but did not know it was open in 1977,1,0.0,0.5,0.0,1.0,0.0,0.0
+275,275,"𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",1,1.0,0.3,0.0,0.937,0.063,0.6369
+276,276,And 5 times cheaper,2,0.0,0.0,0.0,1.0,0.0,0.0
+277,277,"That’s not a good sign
+for a restaurant if the
+menu has way too many
+items ! Jus sayin !!",1,0.31328125,0.55,0.147,0.853,0.0,-0.5076
+278,278,"My ex just returned like you assured me. Thank you DR NEWMAN,  My ex is back, thank you so much!!! I saw a comment online about how DR NEWMAN help someone brought back his wife who left for weeks.I contacted DR NEWMAN, he told me what to do and I did according to his instructions. That was it, everything changed all of a sudden. Now I am happy again with my husband.You can contact him via WhatsApp contact: (+2348076346397) 
+OR text him on his page https://www.facebook.com/DrNewmanSpellCaster
+   @Dr_Newman",0,0.06294642857142858,0.38571428571428573,0.0,0.824,0.176,0.9458
+279,279,"Proverbs 10:22 The blessing of the LORD brings wealth, without painful toil for it. God has blessed my household through an Expert Forex trader Mrs. Rebecca Wayne who I came across while searching for top Bitcoin entrepreneurs. She traded for me with her Forex/Binary trading company where I earned $13,400 with a start up of $1000 went successful in just 7 days, you also want to be bill free? Do well and reach out to her via 
+Email rebeccawayne150@gmail.com
+Whatsapp:+18304848051",2,0.23750000000000002,0.7874999999999999,0.0,0.71,0.29,0.9756
+280,280,"Worked right across the street from the one on Las Olas for years, but unless you had a 3 hour lunch you couldn't go there.  Service sucked!",1,0.3571428571428571,0.5357142857142857,0.142,0.858,0.0,-0.6476
+281,281,"❤️💗💗💗bless Dr Ehimare for his marvelous work in my life, I was separate with my husband for the pass 3 year now and I wasn't satisfied i needed to get my husband back because the life of loneliness was so terrible for me and my 2 kids I searched about some possible spell caster that can bring back lover and i then come across Dr Ehimare i saw a comment about Dr.Ehimare how he bring lovers together with his spell caster I contacted him and he guided me. I asked for solutions, he started the remedy for my spell he ask for some information which i sent to him and also told some few things to do, after 48 hours my husband call me and start bagging me for forgiveness for all that happens i am so happy right now that we are back again as one family. If you are in the same situation right now and you don't know what to do or where to go, you can contact Dr.Ehimare today on  Whatsapp +2349165943331 or page👇👇👇👇👇
+Doctor Ehimare Love Spellcasterr",1,0.16703296703296702,0.5304945054945054,0.036,0.809,0.156,0.9814
+282,282,No idea. I wasn't even a thought in my parent's heads yet lol,0,0.8,0.7,0.138,0.688,0.175,0.1531
+283,283,over priced slop,2,0.0,0.0,0.0,1.0,0.0,0.0
+284,284,"due 𝐓𝐨 𝐓𝐡𝐞 𝐒𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐏𝐚𝐫𝐭𝐧𝐞𝐫, 𝐀𝐫𝐞 𝐘𝐨𝐮 𝐃𝐢𝐬𝐚𝐩𝐩𝐨𝐢𝐧𝐭𝐞𝐝 𝐈𝐧 𝐖𝐡𝐚𝐭 𝐇𝐞 / 𝐒𝐡𝐞 𝐈𝐬 𝐃𝐨𝐢𝐧𝐠. 𝐘𝐨𝐮 𝐅𝐞𝐞𝐥 𝐁𝐫𝐨𝐤𝐞𝐧𝐡𝐞𝐚𝐫𝐭𝐞𝐝 𝐋𝐨𝐧𝐞𝐥𝐲 𝐄𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥𝐥𝐲 𝐃𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝.  𝐅𝐫𝐮𝐬𝐭𝐫𝐚𝐭𝐞𝐝 𝐁𝐞𝐜𝐚𝐮𝐬𝐞 𝐎𝐟 𝐀 𝐁𝐫𝐞𝐚𝐤 𝐔𝐩𝐃𝐮𝐞 / 𝐄𝐱𝐭𝐫𝐚𝐦𝐚𝐫𝐢𝐭𝐚𝐥 𝐀𝐟𝐟𝐚𝐢𝐫, 𝐋𝐢𝐟𝐞 𝐈𝐬 𝐓𝐨𝐨 𝐒𝐡𝐨𝐫𝐭 𝐓𝐨 𝐁𝐞 𝐔𝐧𝐡𝐚𝐩𝐩𝐲. 𝐓𝐡𝐢𝐧𝐤 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐚𝐭. 𝐘𝐨𝐮 𝐃𝐞𝐬𝐞𝐫𝐯𝐞 𝐔𝐭𝐦𝐨𝐬𝐭 𝐇𝐚𝐩𝐩𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐝 𝐋𝐨𝐯𝐞. 𝐓𝐡𝐢𝐬 𝐈𝐬 𝐘𝐨𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 text him on WhatsApp now https://wa.me/message/JBXKT5COQUWQH1
+
+Dr Believe spell temple",0,-0.125,0.375,0.0,1.0,0.0,0.0
+285,285,"Would be nice if you went back to a smaller menu, that way you could focus on doing a fewer meals great instead of dozens of meals mediocre.",2,0.18,0.65,0.0,0.79,0.21,0.7845
+286,286,I think you mean 12 pages,1,-0.3125,0.6875,0.0,1.0,0.0,0.0
+287,287,False you didn’t open til 1978!,1,-0.20000000000000004,0.55,0.0,1.0,0.0,0.0
+288,288,False you didnt open till 88,2,-0.20000000000000004,0.55,0.0,1.0,0.0,0.0
+289,289,"Linda Miller Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+290,290,"Linda Miller Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+291,291,Linda Miller hello there how are you doing if you don't mind can you please send me a friend request,0,0.0,0.0,0.0,0.766,0.234,0.6705
+292,292,"Murray Zlatin 😍I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day,thank you and stay blessed 🌹🌺💙",0,0.525,0.625,0.065,0.616,0.319,0.9807
+293,293,"Anthony Rusty LoBianco 😍I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day,thank you and stay blessed 🌹🌺💙",0,0.525,0.625,0.064,0.62,0.316,0.9807
+294,294,"We're sorry to hear this happened! If you don't mind sending us a DM, we'd be happy to follow up with you.",0,0.08750000000000002,1.0,0.051,0.791,0.158,0.5707
+295,295,"Murray Zlatin Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+296,296,"Anthony Rusty Hello, how're you doing, it'll be a great pleasure to have someone like you as friends here it'll be cool to have fun with you, kindly send me a friend request please 💖",0,0.5125,0.625,0.0,0.423,0.577,0.9862
+297,297,"Anthony Rusty LoBianco Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+298,298,Anthony Rusty LoBianco sorry to hear that.,0,-0.5,1.0,0.178,0.822,0.0,-0.0772
+299,299,"Demi Garza Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+300,300,Demi Garza  🐕🎉😝✨testyes!!wow  https://projeckone.vercel.app/,0,0.0,0.0,0.0,0.753,0.247,0.508
+301,301,"Valeria Haro 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+302,302,"Mohammad Kabir Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+303,303,"Dal JustDal Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+304,304,"Dal JustDal 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+305,305,"Traci Mo Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+306,306,"Francoise Boden agree… I find it annoying and takes too much time away from visiting with people you’re having dinner with while everyone is trying to read War and Peace. The food is good, but not somewhere I go out to often.",2,0.03333333333333329,0.5666666666666668,0.092,0.817,0.09,-0.0258
+307,307,Traci Mo I agree it’s too long especially since most dishes have the same base.,1,-0.07,0.605,0.0,0.848,0.152,0.3612
+308,308,"Traci Mo The more options, the better, keep expanding it!",0,0.5625,0.5,0.0,0.723,0.277,0.5355
+309,309,Traci Mo never been how long is it now,0,-0.05,0.4,0.0,1.0,0.0,0.0
+310,310,"Kathi Ellen Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+311,311,"Shaun Cross Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.3166666666666667,0.4583333333333333,0.0,0.688,0.312,0.9856
+312,312,"Amanda Cabrera Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+313,313,"Angel Ellys Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+314,314,"Angel Ellys 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+315,315,"Michele Vandenborre Soto Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+316,316,"Lizette Mendez Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+317,317,"Lizette Mendez 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+318,318,"Francoise Boden Hello, my honest and sincere apologies for invading your privacy abruptly but I must confess that you are an angel, I will really appreciate an t to be called a friend. I tried sending you a friend request but no avail, can you please add me if you don't mind 🙏",0,0.29375,0.65,0.04,0.678,0.282,0.9497
+319,319,"Francoise Boden Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+320,320,"Francoise Boden I’m proud to serve the United state…I actually love this post and your comment,you deserve my comment for saying such,I found you interesting and also clever ,but tried sending you a friend request but I couldn’t 😏😒I will be so glad if you can send me a friend request here on Facebook ,I still stand for the flag 🇺🇸",0,0.49333333333333335,0.7866666666666667,0.0,0.697,0.303,0.9729
+321,321,"Francoise Boden 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+322,322,"Jeanne Stein 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+323,323,Tobie Balma Hello 👋 Send me a text on messenger i have a question for you it's private,0,0.0,0.375,0.0,0.849,0.151,0.4939
+324,324,"Tobie Balma Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+325,325,Scammers are hacking Cheesecake Factory postings.  In one day I had 2 men hitting on me & a woman asking for money.  BEWARE OF COMMENTING ON CHEESECAKE FACTORY POSTINGS.,0,0.0,0.0,0.0,1.0,0.0,0.0
+326,326,"Tobie Balma 
+Hello, Sorry for the way of contacting, I just saw your profile and thought you were the right person, my name is Sandra Jones, I'm from France.  I suffer from a serious illness that will be conscious of death, it is a throat and there is an amount of €900,000, which I would like to offer to a reliable and honest man to use it well.  I have an import of red oil in my company in France and I have been plundering my husband for 6 years, which is very affected and until now I have not been able to recover, but our children have not  summer.  I would like to offer this amount before my death as my days to count because I miss this disease for which I had no cure.  If you would like to benefit from the €900,000 so that I no longer lose this money 💰 contact me on WhatsApp through this link 👉🏻👉🏻https://wa.me/message/V6PJGZDDOJVBK1",0,0.10654761904761903,0.565922619047619,0.117,0.79,0.094,-0.4029
+327,327,"Tobie Balma Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+328,328,"Tobie Balma Hello 👋, I always enjoy what you share here on Facebook but we're are not friends yet, I have tried to send you a friend request but not going through. Do you mind trying from your side?  I will be happy to be your friend. If you find this messages embarrassing please 🙏 pardon my manners. Thank you",0,0.6000000000000001,0.75,0.078,0.591,0.331,0.9677
+329,329,Colleen Carey It was my favorite.  White chocolate is not really chocolate.,1,0.13333333333333333,0.39999999999999997,0.0,0.786,0.214,0.4588
+330,330,Tobie Balma 💯 I miss that one!,1,0.0,0.0,0.213,0.787,0.0,-0.2244
+331,331,"William Dempsey Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+332,332,"Daphney Stewart Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+333,333,"MW Hicks Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+334,334,Christine Briggs King Hello 👋 Send me a text on messenger i have a question for you it's private,1,0.0,0.375,0.0,0.856,0.144,0.4939
+335,335,"Christine Briggs King Hey, you seem like a cool person. Your heart is kind and pure, and I'm sure those around you will appreciate your kindness. It can be difficult at time's, but dont let the chaos and darkness of the world spoil your goodness. I’m pretty new to this whole online thing and wasn’t sure how to start a conversation, so I thought I would just say hi. I hope you don’t mind. Anyway, I’m a big fan of the outdoors, I like to hike, camp and swim. I’m a bit of a fitness nut and am always trying to do something active. I’d love to hear what you like to do for fun! If you don't mind, you can send me a request, or send me a driect message",1,0.23017815517815518,0.6294094794094792,0.025,0.635,0.341,0.9948
+336,336,"Christine Briggs King I'm always happy to see what you share here on Facebook, but we're not friends yet, I've tried sending you a request several times but it doesn't go through. I would be so happy if you can just click on my profile and send me a request, but if you find this message embarrassing, please forgive my manners, have a safe day🌹🌹",1,0.525,0.625,0.079,0.688,0.233,0.9229
+337,337,"Christine Briggs King Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",1,0.38,0.55,0.0,0.691,0.309,0.9856
+338,338,"Christine Briggs King 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",1,1.0,0.3,0.0,0.939,0.061,0.6369
+339,339,"Jamie Finney Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+340,340,Christine Briggs King  🐇🎓😀🎍omg!wow  https://newprojeck-six.vercel.app/,1,0.0,0.0,0.0,0.782,0.218,0.4199
+341,341,Christine Briggs King Hello 👋 Send me a text on messenger i have a question for you it's private,1,0.0,0.375,0.0,0.856,0.144,0.4939
+342,342,Christine Briggs King  🐑🎾😌✨wow!!yes  https://demotwo.vercel.app/,1,0.0,0.0,0.0,0.715,0.285,0.4912
+343,343,Christine Briggs King .That special smile on your face always keep it up because that make you beautiful. can I ask you a question?,0,0.5023809523809524,0.557142857142857,0.0,0.698,0.302,0.8442
+344,344,"Christine Briggs King Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+345,345,"Christine Briggs King 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",1,1.0,0.3,0.0,0.939,0.061,0.6369
+346,346,"Christine Briggs King Hello, I'm so sorry if this sounds weird, but you have such beautiful and wonderful posts on your site. I can say that you are a very positive person. If it's all right with you, I'd like us to be friends. Send me a friend request or an inbox message if you are interested in my friendship 🙂🙂🙂 thanks",1,0.209018759018759,0.7160894660894661,0.025,0.52,0.455,0.9943
+347,347,"Peter Ostrander Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+348,348,"Sandile Nxumalo Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+349,349,"Michele Pagan-Tirakian Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+350,350,"James Suchy Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+351,351,"Kasey D Jordan Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+352,352,Kasey D Jordan but was the menu drafted in 1977 🤔,1,0.0,0.0,0.0,1.0,0.0,0.0
+353,353,"Michael Brocato Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+354,354,"Michael Brocato Hello...... your post are wonderful but I don't think we're friends here in Facebook,if you don't mind can you please kindly add me too as your friend 🙏 I'm tried adding you to mine but us not going through,I will be really glad if I can get a reply from you but then I'm sorry to have  invaded your privacy please accept my apology.thank you",0,0.4,0.975,0.054,0.667,0.279,0.9679
+355,355,"Jacqui Lopez Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+356,356,"Nicky Nancy I was not born yesterday, and I don’t have any dogs get lost",0,0.0,0.0,0.141,0.859,0.0,-0.3182
+357,357,"Carol DuFresne Ciavarra Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+358,358,"Nicolette Gerue Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+359,359,"Nicolette Gerue 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+360,360,"Laura Dougherty Hello Laura 
+How're you doing, sorry to ask where're you writing from?",0,-0.5,1.0,0.091,0.909,0.0,-0.0772
+361,361,"Laura Dougherty Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+362,362,"Laura Dougherty 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+363,363,"Joyce Guthrie Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+364,364,"Joyce Guthrie Apologies for dropping this here but it feels too great to visit your timeline,🌹🌹 I always enjoy what you share here on Facebook but we're not friends yet🌹🌹 I have tried several times to send the friend request but it's not going. Do you mind trying from your side? I will be happy to be friends with you. If you find this message embarrassing please pardon my manners Thank you🌹",0,0.5,0.5625,0.062,0.61,0.327,0.9844
+365,365,"Katie Higdon Garcia Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+366,366,"Destinee Hayes you know that 1200 page novel, War and Peace? It's the menu version of that 😆",2,0.0,0.0,0.138,0.567,0.294,0.5267
+367,367,Katie Higdon Garcia it gives me anxiety 😂,0,0.0,0.0,0.22,0.549,0.232,0.296
+368,368,"Richard Spenelli Jr. Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.691,0.309,0.9856
+369,369,Richard Spenelli Jr. Hello how are you doing? You have a  great picture is that your real hair on your profile picture?  I tried adding you as my friend but is not going through. So please try from your Facebook to see if it works so that we can be friends.,0,0.5,0.525,0.0,0.781,0.219,0.9209
+370,370,"Rodriguez MG Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+371,371,"Rodriguez MG You look so beautiful. You have the best smile only the chief of Angels has which  means you of all the angels around the world🌹😊 I'm sorry for invading your privacy  I will love to know you more, Kindly send me a Friend request. If you happen to find this message embarrassing, please pardon my manners... Thank you😔😔",0,0.40625,0.675,0.04,0.566,0.394,0.9866
+372,372,"Happiness Okoro Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.4333333333333333,0.4916666666666667,0.0,0.663,0.337,0.9884
+373,373,"Philip-Sherry Wishnia Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+374,374,"Philip-Sherry Wishnia 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
+375,375,"Rudy Ramirez Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+376,376,"Gene Mikijanic Dear friend 👋 ,we have created a Golden Retriever 🥰 group to showcase your Heathy Golden Retriever For Adoption And More which is created for us 🐾 to make this breed known to the world, for adoption for all lovers who don't have one and also for the sharing of lovely 😍 Golden retriever pictures
+👇👇👇⬇️⬇️⬇️
+https://facebook.com/groups/721998266391863/",0,0.38,0.55,0.0,0.688,0.312,0.9856
+377,377,"Gene Mikijanic 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 George Paltan , 𝐡𝐚𝐬 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐟𝐚𝐦𝐢𝐥𝐲 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐣𝐨𝐲, 𝐈'𝐯𝐞 𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐦𝐮𝐜𝐡 𝐫𝐞𝐭𝐮𝐫𝐧𝐬 𝐟𝐫𝐨𝐦 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐟𝐮𝐧𝐝𝐬 𝐢𝐧𝐯𝐞𝐬𝐭𝐞𝐝 𝐚𝐧𝐝 𝐈'𝐦 𝐭𝐡𝐚𝐧𝐤𝐟𝐮𝐥 𝐚𝐧𝐝 𝐈 𝐚𝐝𝐯𝐢𝐜𝐞 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 him He's's the best.
+👇👇👇👇👇👇
+https://www.facebook.com/george.paltan.5
+https://www.facebook.com/george.paltan.5",0,1.0,0.3,0.0,0.938,0.062,0.6369
