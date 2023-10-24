@@ -1,0 +1,148 @@
+Index,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,AfterLife,1,1linrfCmITmQHs4enAxTUY,Welcome To The Circus,spotify:track:1linrfCmITmQHs4enAxTUY,7.62e-05,0.489,0.987,0.0,0.788,-4.57,0.0806,139.982,0.297,71
+1,AfterLife,2,40gGeC397vLmz4eETZDSrG,AfterLife,spotify:track:40gGeC397vLmz4eETZDSrG,0.000655,0.472,0.989,4.87e-06,0.341,-4.214,0.0597,93.985,0.327,63
+2,AfterLife,3,6bo13cPb5M0B6LhQEl0A3E,Times Like These,spotify:track:6bo13cPb5M0B6LhQEl0A3E,0.0102,0.437,0.935,0.0,0.135,-4.278,0.0675,73.722,0.593,66
+3,AfterLife,4,2EwMqSMpU9nTkdB0pIExdX,Roll Dem Bones,spotify:track:2EwMqSMpU9nTkdB0pIExdX,0.000115,0.345,0.992,0.0,0.334,-4.063,0.131,195.056,0.361,53
+4,AfterLife,5,6sMOYEbYigMVoIVNyNEIPN,Pick Up Behind You,spotify:track:6sMOYEbYigMVoIVNyNEIPN,2.51e-05,0.443,0.976,0.0,0.54,-4.035,0.0919,95.011,0.453,53
+5,AfterLife,6,28pN19lOLb7o6CZlCAcflX,Judgment Day,spotify:track:28pN19lOLb7o6CZlCAcflX,0.000418,0.528,0.929,0.0,0.258,-4.874,0.073,148.089,0.509,63
+6,AfterLife,7,0rqRkmrlWyuhSUqJKvf8SK,IOU,spotify:track:0rqRkmrlWyuhSUqJKvf8SK,0.000145,0.526,0.986,0.0132,0.111,-5.094,0.0893,136.063,0.293,55
+7,AfterLife,8,1pZwsIB2ogBnbjydoIHQnL,Thanks For Asking,spotify:track:1pZwsIB2ogBnbjydoIHQnL,0.00555,0.626,0.828,0.0,0.0683,-4.576,0.0277,100.037,0.697,60
+8,AfterLife,9,2NI3MmhQ258DVaXZKmn3S3,Blood And Tar,spotify:track:2NI3MmhQ258DVaXZKmn3S3,2.62e-05,0.495,0.995,7.35e-06,0.0789,-4.599,0.102,94.956,0.23,50
+9,AfterLife,10,3Q90tQQevxxirs4vcIcMkc,All I Know,spotify:track:3Q90tQQevxxirs4vcIcMkc,0.00824,0.486,0.911,0.0,0.124,-5.214,0.0566,155.953,0.308,53
+10,AfterLife,11,2KKWuaaO9srUuzHwlRX7Xc,Gold Gutter,spotify:track:2KKWuaaO9srUuzHwlRX7Xc,2.12e-05,0.459,0.981,0.0,0.188,-4.064,0.0784,144.934,0.527,50
+11,AfterLife,12,6hbAVcAB0mQVXMPubZnwuL,The End,spotify:track:6hbAVcAB0mQVXMPubZnwuL,0.00106,0.499,0.914,0.0,0.13,-4.748,0.0566,80.049,0.345,64
+13,"A Decade of Destruction, Vol.2",2,3wkn9jTwSUViQdPXTqt7sh,The Tragic Truth,spotify:track:3wkn9jTwSUViQdPXTqt7sh,0.00295,0.468,0.924,0.0,0.139,-4.485,0.0669,155.992,0.579,26
+14,"A Decade of Destruction, Vol.2",3,4dIeaB1uug4Y3sFOZEmLI3,Broken World,spotify:track:4dIeaB1uug4Y3sFOZEmLI3,0.000735,0.357,0.985,0.0,0.0439,-3.617,0.133,198.365,0.328,39
+15,"A Decade of Destruction, Vol.2",4,39gnGZr2fM13I9wjPASiYv,I Refuse,spotify:track:39gnGZr2fM13I9wjPASiYv,0.0472,0.512,0.851,0.0,0.0951,-5.662,0.0592,155.004,0.377,26
+25,"A Decade of Destruction, Vol.2",14,4jKEABb4jTbAdHYwJxEiqS,Wrong Side of Heaven (Acoustic),spotify:track:4jKEABb4jTbAdHYwJxEiqS,0.22,0.417,0.605,0.0,0.126,-8.137,0.0308,149.798,0.435,44
+26,"A Decade of Destruction, Vol.2",15,6V7tzTsV08DQOIkUjcpM0X,Trouble (Felmax Remix),spotify:track:6V7tzTsV08DQOIkUjcpM0X,0.0315,0.504,0.954,0.000683,0.229,-3.575,0.121,172.078,0.158,26
+27,"A Decade of Destruction, Vol.2",16,0DEPRUA7O8xBebXznTu9k1,Wash It All Away (Joe Hahn Remix),spotify:track:0DEPRUA7O8xBebXznTu9k1,0.000581,0.66,0.956,2.42e-05,0.619,-5.787,0.12,124.931,0.661,27
+28,"A Decade of Destruction, Vol.2",17,1ADLMRnT4pGRYcYplX6PxP,Bad Company (The Five Finger Dim Mak Steve Aoki Remix),spotify:track:1ADLMRnT4pGRYcYplX6PxP,0.0144,0.53,0.632,0.0,0.229,-4.139,0.0667,99.865,0.285,21
+29,F8,1,2RyS4O0bhU3MLnjlKCsjSb,F8,spotify:track:2RyS4O0bhU3MLnjlKCsjSb,0.0269,0.243,0.91,0.951,0.574,-8.28,0.0614,166.048,0.404,45
+30,F8,2,163Kb2pSLLduhfbO6Zn0sL,Inside Out,spotify:track:163Kb2pSLLduhfbO6Zn0sL,0.00191,0.476,0.991,0.0,0.121,-2.855,0.15,82.997,0.202,61
+31,F8,3,76CWLFHm3OFuE2P1dDMhi3,Full Circle,spotify:track:76CWLFHm3OFuE2P1dDMhi3,0.000151,0.495,0.993,0.0,0.368,-3.014,0.145,149.912,0.29,64
+32,F8,4,2gsxeJnGbJQkBddBDr0UTV,Living The Dream,spotify:track:2gsxeJnGbJQkBddBDr0UTV,0.000839,0.416,0.988,0.0,0.137,-3.466,0.113,174.995,0.47,61
+33,F8,5,6GqqGv8frU7kqzXkm2rewI,A Little Bit Off,spotify:track:6GqqGv8frU7kqzXkm2rewI,0.00839,0.664,0.828,0.0,0.294,-6.053,0.0404,103.985,0.82,72
+34,F8,6,4MCko2lInqpb0hKRZxRdGz,Bottom of The Top,spotify:track:4MCko2lInqpb0hKRZxRdGz,0.000157,0.524,0.989,1.25e-06,0.232,-3.758,0.0651,102.004,0.488,48
+35,F8,7,5utdbEzP9dUyrEaayHfVM5,To Be Alone,spotify:track:5utdbEzP9dUyrEaayHfVM5,0.000286,0.436,0.963,0.0,0.336,-3.436,0.06,92.037,0.358,50
+36,F8,8,5wXWGcJmmNGdV2EzXkbfQD,Mother May I (Tic Toc),spotify:track:5wXWGcJmmNGdV2EzXkbfQD,0.00126,0.484,0.989,5.78e-06,0.0905,-3.74,0.109,155.878,0.391,47
+37,F8,9,6RksBSj5fFtPkUnL2EE0oe,Darkness Settles In,spotify:track:6RksBSj5fFtPkUnL2EE0oe,0.00732,0.334,0.933,0.0,0.264,-4.49,0.09,132.812,0.18,61
+38,F8,10,5IiBFYMJEvFznr2IZvOgwg,This Is War,spotify:track:5IiBFYMJEvFznr2IZvOgwg,0.00048,0.59,0.993,0.0,0.358,-3.52,0.172,106.05,0.25,48
+39,F8,11,4KAwczGJxt6Ds54OJF4sqI,Leave It All Behind,spotify:track:4KAwczGJxt6Ds54OJF4sqI,0.00198,0.401,0.994,0.0,0.0749,-3.42,0.207,195.979,0.345,47
+40,F8,12,5ZJznweFVYVA803Tq1RldG,Scar Tissue,spotify:track:5ZJznweFVYVA803Tq1RldG,2.56e-05,0.435,0.989,2.63e-06,0.214,-3.753,0.113,165.054,0.429,45
+41,F8,13,4tW57waWtNZF2CnhQEjPBq,Brighter Side of Grey,spotify:track:4tW57waWtNZF2CnhQEjPBq,0.00646,0.538,0.961,0.0,0.129,-3.496,0.0536,124.002,0.427,59
+42,F8,14,42XC8x6KyeDFe2z8epNDrz,Making Monsters (Bonus),spotify:track:42XC8x6KyeDFe2z8epNDrz,0.000229,0.526,0.991,8.51e-06,0.0598,-3.091,0.0628,130.028,0.639,46
+43,F8,15,5JipZ8qALcTrPoRRavAd1N,Death Punch Therapy (Bonus),spotify:track:5JipZ8qALcTrPoRRavAd1N,8.06e-05,0.507,0.993,1.41e-05,0.282,-3.964,0.104,153.966,0.467,46
+44,F8,16,63rAI9RSoPiGXWG9Tu47I2,Inside Out (Radio Edit),spotify:track:63rAI9RSoPiGXWG9Tu47I2,0.00357,0.342,0.988,0.0,0.274,-3.339,0.163,82.857,0.228,45
+46,And Justice for None (Deluxe),2,1Enfp5UKez0UDmlJo58aZK,Fake,spotify:track:1Enfp5UKez0UDmlJo58aZK,0.000919,0.532,0.998,1.4e-06,0.234,-3.972,0.0925,150.037,0.501,46
+48,And Justice for None (Deluxe),4,3MnYJuv8ogYrBkBb3XWdTQ,Sham Pain,spotify:track:3MnYJuv8ogYrBkBb3XWdTQ,0.000181,0.554,0.939,2.56e-06,0.139,-4.899,0.0541,96.504,0.427,58
+53,And Justice for None (Deluxe),9,093pLJk6h71BCYyrcVQGEO,When the Seasons Change,spotify:track:093pLJk6h71BCYyrcVQGEO,0.00147,0.498,0.894,0.0,0.0755,-6.628,0.0307,156.08,0.543,53
+54,And Justice for None (Deluxe),10,2uq4G34GFZodPrw3dCXT38,Stuck in My Ways,spotify:track:2uq4G34GFZodPrw3dCXT38,0.00131,0.433,0.986,0.0,0.225,-3.684,0.116,164.122,0.104,41
+57,And Justice for None (Deluxe),13,4C0k4BTuUP3b2nc6zgfNFc,Bloody,spotify:track:4C0k4BTuUP3b2nc6zgfNFc,0.00947,0.498,0.974,0.0,0.865,-6.138,0.148,170.108,0.451,40
+59,And Justice for None (Deluxe),15,5drPLqMVIz5dsq4SKS2ChC,Bad Seed,spotify:track:5drPLqMVIz5dsq4SKS2ChC,7.52e-06,0.565,0.976,0.0,0.328,-4.651,0.133,129.953,0.562,23
+60,And Justice for None (Deluxe),16,18ZBbgSwqAAmrKrSNEmwrg,Save Your Breath,spotify:track:18ZBbgSwqAAmrKrSNEmwrg,1.25e-05,0.583,0.968,8.46e-05,0.258,-4.545,0.0503,119.971,0.549,43
+62,And Justice for None,2,3XMm6M9Ol6eQh6zKPixpfB,Top of the World,spotify:track:3XMm6M9Ol6eQh6zKPixpfB,0.00111,0.489,0.98,0.0,0.221,-4.436,0.0757,73.983,0.701,51
+64,And Justice for None,4,0buT7DERYwcKnNanKwbrUc,Blue on Black,spotify:track:0buT7DERYwcKnNanKwbrUc,0.00104,0.51,0.843,1.15e-05,0.0899,-5.611,0.0275,156.063,0.484,57
+65,And Justice for None,5,1GfTLUI9g8j5A8dJ0mhSkn,Fire in the Hole,spotify:track:1GfTLUI9g8j5A8dJ0mhSkn,3.58e-05,0.539,0.993,0.00134,0.335,-4.137,0.0958,107.997,0.272,42
+67,And Justice for None,7,0K9bBCKsV5xwq8bn8pnyV7,It Doesn't Matter,spotify:track:0K9bBCKsV5xwq8bn8pnyV7,2.56e-05,0.513,0.991,2.73e-05,0.369,-4.685,0.109,139.971,0.24,40
+70,And Justice for None,10,51tFXHsNZpP00M9MJVExpO,Rock Bottom,spotify:track:51tFXHsNZpP00M9MJVExpO,0.000296,0.614,0.995,0.00131,0.363,-4.301,0.081,126.998,0.5,38
+73,And Justice for None,13,180ErRGEWlt6zImYCJ8HR2,Will the Sun Ever Rise,spotify:track:180ErRGEWlt6zImYCJ8HR2,7.5e-05,0.477,0.937,0.0,0.143,-5.235,0.0301,159.958,0.588,43
+74,A Decade of Destruction,1,11CXV4Uu131A6XhtVgaWvn,Trouble,spotify:track:11CXV4Uu131A6XhtVgaWvn,1.55e-05,0.474,0.99,0.0,0.232,-3.063,0.0942,83.977,0.376,47
+75,A Decade of Destruction,2,6WmfUWWGRnE2yPaH0pbqDk,Gone Away,spotify:track:6WmfUWWGRnE2yPaH0pbqDk,0.000382,0.503,0.736,4.25e-05,0.153,-7.563,0.0409,106.055,0.273,61
+90,Got Your Six (Deluxe),1,5V4Iz7sdGvakgLxWne2sJS,Got Your Six,spotify:track:5V4Iz7sdGvakgLxWne2sJS,0.000103,0.537,0.984,5.7e-06,0.0804,-5.008,0.0854,76.524,0.363,34
+91,Got Your Six (Deluxe),2,5dFEX82XB1ElGFwfCp0rql,Jekyll and Hyde,spotify:track:5dFEX82XB1ElGFwfCp0rql,0.000571,0.542,0.96,2.21e-05,0.0565,-4.681,0.106,155.013,0.722,69
+92,Got Your Six (Deluxe),3,5tNoNRvOS6Cmqcb4BwaOd5,Wash It All Away,spotify:track:5tNoNRvOS6Cmqcb4BwaOd5,2.28e-05,0.488,0.984,0.0,0.28,-3.618,0.0715,123.633,0.277,37
+93,Got Your Six (Deluxe),4,1DvHC8uCcHjrKhILjUqjLR,Ain't My Last Dance,spotify:track:1DvHC8uCcHjrKhILjUqjLR,3.79e-05,0.476,0.982,0.0,0.169,-3.998,0.0712,140.026,0.558,46
+94,Got Your Six (Deluxe),5,75Z8REOrK2E3cUNcBqpfij,My Nemesis,spotify:track:75Z8REOrK2E3cUNcBqpfij,3.05e-05,0.438,0.966,0.0,0.278,-2.829,0.0742,74.994,0.523,32
+95,Got Your Six (Deluxe),6,4D61ekjtnJQskPvQX0AaLg,No Sudden Movement,spotify:track:4D61ekjtnJQskPvQX0AaLg,2.74e-05,0.543,0.994,0.000528,0.0948,-5.172,0.0878,121.978,0.264,30
+96,Got Your Six (Deluxe),7,68eMF22souJft2ffuzTtZG,Question Everything,spotify:track:68eMF22souJft2ffuzTtZG,3.17e-05,0.528,0.976,0.000219,0.2,-4.904,0.0536,130.016,0.279,31
+97,Got Your Six (Deluxe),8,6u0jSdmYI6hpy8R73XMWP5,Hell to Pay,spotify:track:6u0jSdmYI6hpy8R73XMWP5,6.11e-05,0.554,0.973,0.0,0.22,-3.885,0.0658,96.002,0.527,31
+98,Got Your Six (Deluxe),9,1oTMviO3lfCXuTEWXziC6D,Digging My Own Grave,spotify:track:1oTMviO3lfCXuTEWXziC6D,0.00538,0.476,0.937,0.0,0.0867,-6.257,0.0689,155.987,0.325,47
+99,Got Your Six (Deluxe),10,5QbsYcIzpZTGMqA5InnsOb,Meet My Maker,spotify:track:5QbsYcIzpZTGMqA5InnsOb,5.23e-05,0.57,0.957,0.0,0.0509,-4.23,0.152,127.964,0.344,29
+100,Got Your Six (Deluxe),11,0wLFVc5sWAeOOC0eIjPxkm,Boots and Blood,spotify:track:0wLFVc5sWAeOOC0eIjPxkm,8.34e-05,0.495,0.984,1.21e-06,0.0843,-4.626,0.089,175.592,0.562,48
+101,Got Your Six (Deluxe),12,5M7IHQ7yGRIteJuMqu84KW,You're Not My Kind,spotify:track:5M7IHQ7yGRIteJuMqu84KW,6.15e-05,0.545,0.99,0.0,0.063,-4.509,0.0862,90.978,0.492,43
+102,Got Your Six (Deluxe),13,2vOKsQ3Mc4msurxMPj02s6,This Is My War,spotify:track:2vOKsQ3Mc4msurxMPj02s6,2.12e-05,0.556,0.977,0.000133,0.0947,-4.078,0.0416,109.945,0.438,47
+103,Got Your Six (Deluxe),14,0B2N4OGP6faYsITpdKEH1D,I Apologize,spotify:track:0B2N4OGP6faYsITpdKEH1D,0.00069,0.344,0.923,0.0,0.167,-5.146,0.0878,116.975,0.411,57
+104,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",1,6HD6NbPIYdFczEucWYbcfH,Here To Die,spotify:track:6HD6NbPIYdFczEucWYbcfH,2.39e-05,0.436,0.992,0.0,0.0837,-3.668,0.236,179.992,0.218,39
+105,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",2,6iAVfU2eMwxOSRSpazBAGO,Weight Beneath My Sin,spotify:track:6iAVfU2eMwxOSRSpazBAGO,2.02e-05,0.585,0.99,0.0,0.149,-3.907,0.078,112.018,0.541,41
+106,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",3,5BHJQrDdnv8RvdpwNn5vnD,Wrecking Ball,spotify:track:5BHJQrDdnv8RvdpwNn5vnD,1.13e-05,0.546,0.975,0.000556,0.107,-5.127,0.143,137.991,0.473,40
+107,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",4,5oo0lU9y7EGVkxqalZBpFb,Battle Born,spotify:track:5oo0lU9y7EGVkxqalZBpFb,0.00014,0.456,0.965,0.0,0.245,-4.578,0.139,148.033,0.386,29
+108,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",5,5DGR9mVMvhqpKbXW6AYydD,Cradle to the Grave,spotify:track:5DGR9mVMvhqpKbXW6AYydD,6.91e-05,0.516,0.987,0.0,0.121,-4.324,0.136,95.015,0.153,55
+109,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",6,1Bu1xIwxq3kB4j3b4bduEY,Matter of Time,spotify:track:1Bu1xIwxq3kB4j3b4bduEY,1.06e-05,0.527,0.994,8.13e-05,0.339,-4.366,0.127,115.995,0.336,37
+110,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",7,3AT79ckc10pT39E8Yc6YvF,The Agony of Regret,spotify:track:3AT79ckc10pT39E8Yc6YvF,0.472,0.696,0.819,0.892,0.105,-10.064,0.0326,115.969,0.766,35
+111,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",8,6sPNYpAVqMuGd5OzyhLlP8,Cold,spotify:track:6sPNYpAVqMuGd5OzyhLlP8,0.0127,0.479,0.828,0.0,0.277,-4.526,0.0462,144.052,0.437,51
+112,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",9,2raQK16nO1lfbRt202s3bm,Let This Go,spotify:track:2raQK16nO1lfbRt202s3bm,4.25e-05,0.446,0.993,4.41e-06,0.162,-3.894,0.181,193.926,0.317,38
+113,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",10,2tvuZqLXwaDoTXgPL7NwF4,My Heart Lied,spotify:track:2tvuZqLXwaDoTXgPL7NwF4,0.00015,0.481,0.995,0.0,0.127,-4.224,0.154,175.977,0.34,24
+114,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",11,57anQQLxfwoceqoheenca4,A Day in My Life,spotify:track:57anQQLxfwoceqoheenca4,2.71e-05,0.547,0.964,7.94e-06,0.0264,-4.358,0.0816,125.044,0.225,40
+115,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",12,0KxKNPHZpOLvJaT8ATekoT,House of the Rising Sun,spotify:track:0KxKNPHZpOLvJaT8ATekoT,0.00182,0.452,0.958,0.00126,0.107,-3.382,0.0982,153.96,0.256,62
+116,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",1,3QgBW3ZwU45cURZPDX72gM,Lift Me Up,spotify:track:3QgBW3ZwU45cURZPDX72gM,9.66e-05,0.519,0.985,0.0,0.208,-4.157,0.138,75.01,0.151,28
+117,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",2,3qig63egkiPDdYev7Q3Zi6,Watch You Bleed,spotify:track:3qig63egkiPDdYev7Q3Zi6,9.81e-06,0.495,0.995,0.000508,0.429,-4.944,0.144,130.002,0.223,44
+118,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",3,2eD15LDeeNQsvCDsgGadwH,You,spotify:track:2eD15LDeeNQsvCDsgGadwH,8.45e-05,0.563,0.977,0.0,0.143,-4.293,0.133,135.987,0.425,44
+119,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",4,1NVu5tlNXiMnJvI3RmD8C0,Wrong Side of Heaven,spotify:track:1NVu5tlNXiMnJvI3RmD8C0,0.00661,0.483,0.926,0.0,0.29,-5.122,0.0667,150.012,0.528,28
+120,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",5,6Mp3x1iGBEf8TIlzGmUAFX,Burn MF,spotify:track:6Mp3x1iGBEf8TIlzGmUAFX,0.000154,0.505,0.995,3.38e-06,0.0459,-4.829,0.204,90.063,0.185,28
+121,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",6,05gQOxLiIkOQKAJwEOq2HJ,I.M.Sin,spotify:track:05gQOxLiIkOQKAJwEOq2HJ,4.39e-06,0.519,0.993,0.0,0.0881,-3.463,0.18,140.024,0.175,41
+122,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",7,37VguAgvsQqnMcWfXSlmRD,Anywhere But Here,spotify:track:37VguAgvsQqnMcWfXSlmRD,6.12e-05,0.51,0.984,0.0,0.15,-4.571,0.0684,138.018,0.294,25
+123,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",8,6hD5DVLti6Ki0jHxlfN8YZ,Dot Your Eyes,spotify:track:6hD5DVLti6Ki0jHxlfN8YZ,0.000512,0.489,0.994,0.0,0.0623,-3.96,0.12,74.018,0.386,26
+124,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",9,0DZihiarNaosLsRuI4DcLK,M.I.N.E (End This Way),spotify:track:0DZihiarNaosLsRuI4DcLK,0.00136,0.523,0.914,0.0,0.109,-3.816,0.0406,132.069,0.271,52
+125,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",10,24IbSMrw36Cyvy2pFj4sH1,Mama Said Knock You Out,spotify:track:24IbSMrw36Cyvy2pFj4sH1,0.000126,0.591,0.979,0.0,0.0819,-3.764,0.102,102.993,0.724,27
+126,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",11,47p6Wq5XpgcJ93DbYcX3ya,Diary of a Deadman,spotify:track:47p6Wq5XpgcJ93DbYcX3ya,0.000141,0.512,0.963,0.417,0.111,-6.267,0.0803,149.996,0.641,22
+127,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",12,3Lswj8NK2dFr4WfCeUACX5,I.M.Sin (Max Cavalera Version),spotify:track:3Lswj8NK2dFr4WfCeUACX5,5.84e-06,0.524,0.993,5.62e-06,0.087,-2.952,0.186,140.003,0.178,19
+128,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",13,2qmdTTa3jDxFdAnmlJ8VBg,Anywhere But Here (Maria Brink Version),spotify:track:2qmdTTa3jDxFdAnmlJ8VBg,7.06e-05,0.509,0.981,0.0,0.127,-4.413,0.0945,138.029,0.245,22
+129,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",14,1IkCQjLrLosGgIvX1fYNZA,Dot Your Eyes (Jamey Jasta Version),spotify:track:1IkCQjLrLosGgIvX1fYNZA,0.000604,0.502,0.993,0.0,0.0623,-3.897,0.114,73.998,0.354,22
+130,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",15,3RkIc9xqECsgYxI1x7bOn6,Intro (Live),spotify:track:3RkIc9xqECsgYxI1x7bOn6,0.00176,0.22,0.754,0.0,0.878,-10.803,0.254,83.119,0.0343,25
+131,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",16,37PHnkZkRBd0FGC7M1HdGy,Under & Over It (Live),spotify:track:37PHnkZkRBd0FGC7M1HdGy,0.00113,0.4,0.996,0.0,0.841,-4.096,0.15,152.018,0.0377,28
+132,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",17,3i2Hby522FG5Vb7sCpQZ23,Burn It Down (Live),spotify:track:3i2Hby522FG5Vb7sCpQZ23,0.0029,0.425,0.993,0.000801,0.858,-5.215,0.15,100.019,0.0522,26
+133,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",18,3PXvVGKVmsFkwfdTpfIxWn,American Capitalist (Live),spotify:track:3PXvVGKVmsFkwfdTpfIxWn,0.00121,0.407,0.991,1.79e-05,0.857,-5.421,0.208,149.961,0.0884,26
+134,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",19,3VDDmLgUcCcNaUeO7tGG4Y,Hard to See (Live),spotify:track:3VDDmLgUcCcNaUeO7tGG4Y,0.00217,0.469,0.976,0.00218,0.51,-4.23,0.154,112.046,0.151,25
+135,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",20,1MWuJjAomBKscvmnBgsD8U,Coming Down (Live),spotify:track:1MWuJjAomBKscvmnBgsD8U,0.0228,0.264,0.956,0.0,0.974,-4.37,0.165,83.974,0.193,26
+136,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",21,7ITnvIjI385HXZo4FBiwWz,Bad Company (Live),spotify:track:7ITnvIjI385HXZo4FBiwWz,0.0135,0.21,0.968,0.000115,0.95,-3.588,0.111,116.366,0.239,28
+137,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",22,6WDZI3W0GwpeQAMcHvAka2,White Knuckles (Live),spotify:track:6WDZI3W0GwpeQAMcHvAka2,0.023,0.254,0.96,0.000275,0.959,-5.57,0.364,95.265,0.0792,25
+138,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",23,2orcqVIbnTevb2FM6pnlSa,Drum Solo (Live),spotify:track:2orcqVIbnTevb2FM6pnlSa,0.00108,0.406,0.99,0.0382,0.837,-5.997,0.154,134.929,0.0826,25
+139,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",24,3EI9dKCPlMyiTYsVI3tJcr,Far From Home (Live),spotify:track:3EI9dKCPlMyiTYsVI3tJcr,0.13,0.175,0.98,4.4e-06,0.812,-3.726,0.25,154.372,0.204,27
+140,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",25,1MeiASGJS4KK9gwwa11Uw0,Never Enough (Live),spotify:track:1MeiASGJS4KK9gwwa11Uw0,0.00111,0.464,0.987,0.000495,0.688,-3.551,0.124,126.094,0.363,27
+141,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",26,6xJP6ZyM04RUJ4FmC9cL5k,War Is the Answer (Live),spotify:track:6xJP6ZyM04RUJ4FmC9cL5k,0.0084,0.207,0.981,0.000562,0.941,-5.276,0.316,92.081,0.0398,26
+142,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",27,1CNo4gHi6M1v2WHouQehX5,Remember Everything (Live),spotify:track:1CNo4gHi6M1v2WHouQehX5,0.839,0.41,0.668,0.0,0.98,-5.968,0.0348,79.003,0.525,27
+143,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",28,0j9KJjiiidMKM9KZy1cn0s,No One Gets Left Behind (Live),spotify:track:0j9KJjiiidMKM9KZy1cn0s,0.0105,0.4,0.985,0.000112,0.957,-4.167,0.275,156.041,0.22,25
+144,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",29,5mHCpI9Qu6EfPCh82FtdEi,The Bleeding (Live),spotify:track:5mHCpI9Qu6EfPCh82FtdEi,0.0231,0.212,0.977,0.000365,0.972,-5.107,0.333,79.507,0.0867,27
+145,War Is the Answer,1,4OBpEu5RjG0c4dGzlKWvX4,Dying Breed,spotify:track:4OBpEu5RjG0c4dGzlKWvX4,1.22e-05,0.383,0.982,0.000152,0.215,-3.188,0.127,195.931,0.189,45
+146,War Is the Answer,2,6AYpL5yUGbvwNaTUzLpNcA,Hard To See,spotify:track:6AYpL5yUGbvwNaTUzLpNcA,4.62e-06,0.515,0.976,0.000315,0.117,-3.117,0.167,111.985,0.134,54
+147,War Is the Answer,3,4JkYvKTNnRTRG7LVamtcAw,Bulletproof,spotify:track:4JkYvKTNnRTRG7LVamtcAw,4.53e-06,0.482,0.973,0.0263,0.256,-3.594,0.158,147.989,0.258,45
+148,War Is the Answer,4,5vif1v33N1y04aewqWIGHm,No One Gets Left Behind,spotify:track:5vif1v33N1y04aewqWIGHm,6.24e-06,0.424,0.956,0.0169,0.313,-3.766,0.0754,155.968,0.285,51
+149,War Is the Answer,5,2K0DlaRpifR5Se3DSEEXpb,Crossing Over,spotify:track:2K0DlaRpifR5Se3DSEEXpb,6.55e-05,0.375,0.898,8.18e-05,0.28,-3.855,0.0642,195.795,0.128,44
+150,War Is the Answer,6,1r4KMN8S6M2xutsEhPkjMt,Burn It Down,spotify:track:1r4KMN8S6M2xutsEhPkjMt,1.96e-05,0.561,0.979,0.0038,0.0976,-2.962,0.145,101.998,0.3,43
+151,War Is the Answer,7,3DjRp5TOyy29YsfKbCWK3f,Far From Home,spotify:track:3DjRp5TOyy29YsfKbCWK3f,0.00149,0.467,0.688,3.92e-06,0.169,-5.352,0.0298,137.884,0.229,62
+152,War Is the Answer,8,58r45qU7ajItIrEgn526kC,Falling In Hate,spotify:track:58r45qU7ajItIrEgn526kC,2.93e-06,0.568,0.964,2.94e-06,0.239,-4.005,0.0759,114.998,0.248,40
+153,War Is the Answer,9,3B2rrsltKa7xrqQKzmeC4v,My Own Hell,spotify:track:3B2rrsltKa7xrqQKzmeC4v,5.44e-06,0.472,0.902,9.14e-05,0.107,-4.175,0.0549,84.95,0.319,44
+154,War Is the Answer,10,2dlgumgcNCRafhgZQyDCzH,Walk Away,spotify:track:2dlgumgcNCRafhgZQyDCzH,2.29e-05,0.417,0.935,0.000999,0.292,-3.508,0.103,135.955,0.236,53
+155,War Is the Answer,11,2WJC3uCrjU8NsNw4RZ7XIS,Canto 34,spotify:track:2WJC3uCrjU8NsNw4RZ7XIS,8.5e-06,0.543,0.941,0.808,0.0934,-6.252,0.0698,110.021,0.0698,40
+156,War Is the Answer,12,2KZXCH4npY28gtZKXcB2N8,Bad Company,spotify:track:2KZXCH4npY28gtZKXcB2N8,0.000595,0.558,0.886,9.91e-05,0.0904,-4.196,0.0482,114.041,0.171,70
+157,War Is the Answer,13,40diQlqwPj2HPxxhakP7FI,War Is the Answer,spotify:track:40diQlqwPj2HPxxhakP7FI,4.37e-05,0.502,0.959,0.0129,0.12,-3.523,0.104,184.094,0.412,51
+158,War Is the Answer,14,5GigN48UFwUC9zg4C6KjR2,Walk Away (Live),spotify:track:5GigN48UFwUC9zg4C6KjR2,4.19e-05,0.432,0.967,0.0,0.886,-3.551,0.0519,136.011,0.211,31
+160,American Capitalist (Deluxe Edition),2,0xKFHPdmWipLYPG3zlPpr4,Under and Over It,spotify:track:0xKFHPdmWipLYPG3zlPpr4,1.41e-05,0.473,0.996,0.0,0.26,-3.027,0.173,76.006,0.0952,61
+164,American Capitalist (Deluxe Edition),6,5HdObxLLUyBGkn3VQvOlu9,Generation Dead,spotify:track:5HdObxLLUyBGkn3VQvOlu9,4.42e-05,0.43,0.989,0.0,0.123,-3.389,0.18,90.069,0.377,40
+166,American Capitalist (Deluxe Edition),8,0AU8BHZpoCIqGPxxL5KpKZ,Remember Everything,spotify:track:0AU8BHZpoCIqGPxxL5KpKZ,0.00927,0.374,0.824,0.0,0.11,-4.07,0.0397,161.976,0.12,60
+168,American Capitalist (Deluxe Edition),10,39AYXuFmC2ezxO71KiZa15,If I Fall,spotify:track:39AYXuFmC2ezxO71KiZa15,4.01e-05,0.437,0.995,0.0,0.315,-4.045,0.219,159.884,0.0563,44
+170,American Capitalist (Deluxe Edition),12,27S99TP97fxhB5SZWto0x3,Under and Over It (Remix),spotify:track:27S99TP97fxhB5SZWto0x3,8.38e-05,0.589,0.868,0.000466,0.14,-4.445,0.0668,151.958,0.39,35
+171,American Capitalist (Deluxe Edition),13,5mbvEUg0Aq53Jm1yseaU02,The Pride (Remix),spotify:track:5mbvEUg0Aq53Jm1yseaU02,0.000404,0.541,0.991,0.0,0.176,-3.437,0.083,104.023,0.472,34
+172,American Capitalist (Deluxe Edition),14,6aWfeIJtNtrLHiSAYmZ3L1,Remember Everything (Remix),spotify:track:6aWfeIJtNtrLHiSAYmZ3L1,0.00539,0.471,0.884,2.75e-06,0.118,-4.284,0.0428,162.06,0.338,34
+173,American Capitalist (Deluxe Edition),15,6YJjQKAkYJI7EgVIwFWtDJ,100 Ways to Hate (Remix),spotify:track:6YJjQKAkYJI7EgVIwFWtDJ,0.0171,0.569,0.982,0.0,0.284,-4.676,0.131,95.014,0.392,36
+175,American Capitalist,1,4X3OfWu0KcofGbMc3Lp1ek,American Capitalist,spotify:track:4X3OfWu0KcofGbMc3Lp1ek,7.27e-06,0.483,0.995,0.00197,0.209,-3.892,0.238,150.047,0.0437,46
+177,American Capitalist,3,4HQAeEIplslteReNxE8jFW,The Pride,spotify:track:4HQAeEIplslteReNxE8jFW,8.96e-06,0.493,0.987,0.0,0.231,-3.398,0.122,103.979,0.354,57
+178,American Capitalist,4,69CjL1kr0muXIraytXdbf5,Coming Down,spotify:track:69CjL1kr0muXIraytXdbf5,0.000619,0.305,0.991,0.0,0.11,-2.927,0.488,76.374,0.187,57
+179,American Capitalist,5,4IJ9CisbGYDTUp4oUMwlWI,Menace,spotify:track:4IJ9CisbGYDTUp4oUMwlWI,7.37e-06,0.252,0.996,0.000327,0.344,-3.908,0.128,142.019,0.346,41
+181,American Capitalist,7,1fMsq6ZgDsS0uKc8OxzwJj,Back for More,spotify:track:1fMsq6ZgDsS0uKc8OxzwJj,6.81e-06,0.452,0.996,1.77e-06,0.22,-2.342,0.114,152.009,0.169,46
+183,American Capitalist,9,3Oz6PK8YqbcDvVVrqJrUhZ,Wicked Ways,spotify:track:3Oz6PK8YqbcDvVVrqJrUhZ,8.98e-05,0.458,0.988,0.0,0.395,-3.506,0.115,192.069,0.322,40
+185,American Capitalist,11,2fzrtsI2p2WheQFmluH7Vg,100 Ways to Hate,spotify:track:2fzrtsI2p2WheQFmluH7Vg,0.000276,0.56,0.989,0.0,0.282,-4.861,0.104,94.988,0.428,46
+187,The Way of the Fist,1,6C1sx0iJSLR6iO5gOlsMpd,Ashes,spotify:track:6C1sx0iJSLR6iO5gOlsMpd,0.000377,0.243,0.956,0.0,0.263,-4.629,0.18,179.699,0.0926,42
+188,The Way of the Fist,2,1IRAph3D08XKLcZkZ4yyYT,The Way of the Fist,spotify:track:1IRAph3D08XKLcZkZ4yyYT,0.000381,0.441,0.938,6.36e-06,0.211,-4.555,0.0803,194.165,0.391,45
+189,The Way of the Fist,3,7B4llLQkVDfGFpR2fKf0TZ,Salvation,spotify:track:7B4llLQkVDfGFpR2fKf0TZ,3.59e-05,0.503,0.94,0.0,0.0958,-4.866,0.14,145.0,0.242,28
+190,The Way of the Fist,4,4P2i9VMIgkQd1yIbMvFdpi,The Bleeding,spotify:track:4P2i9VMIgkQd1yIbMvFdpi,0.00149,0.32,0.811,0.0,0.0986,-5.568,0.0504,159.958,0.124,37
+191,The Way of the Fist,5,1xvG83CEU9ewG7AniHy7Qy,A Place to Die,spotify:track:1xvG83CEU9ewG7AniHy7Qy,8.04e-06,0.445,0.909,0.0,0.161,-4.822,0.0552,92.485,0.222,38
+192,The Way of the Fist,6,1lBHft75k5oRtO16rWdjPc,The Devil's Own,spotify:track:1lBHft75k5oRtO16rWdjPc,0.000428,0.45,0.959,0.0,0.12,-4.813,0.147,160.037,0.128,41
+193,The Way of the Fist,7,3ezfCef1kuGGskhyq1motv,White Knuckles,spotify:track:3ezfCef1kuGGskhyq1motv,1.94e-05,0.481,0.982,2.13e-06,0.247,-3.885,0.198,145.076,0.0915,44
+194,The Way of the Fist,8,5mQ5EDfKjNbsHQcnIHX77t,Can't Heal You,spotify:track:5mQ5EDfKjNbsHQcnIHX77t,4.83e-05,0.419,0.983,1.77e-06,0.0786,-3.555,0.0832,79.975,0.0937,38
+195,The Way of the Fist,9,7iG5wD3QgHLVdZA2ACrP3t,Death Before Dishonor,spotify:track:7iG5wD3QgHLVdZA2ACrP3t,0.000204,0.397,0.943,5.23e-06,0.141,-4.779,0.118,164.976,0.141,46
+196,The Way of the Fist,10,45PxkZiPxc1pngWFExD0P9,Meet the Monster,spotify:track:45PxkZiPxc1pngWFExD0P9,0.000244,0.565,0.922,0.0,0.112,-4.937,0.117,130.033,0.394,43
+197,The Way of the Fist,11,0ruNpl8NsglaVFvTKZ5ibC,Never Enough,spotify:track:0ruNpl8NsglaVFvTKZ5ibC,0.000512,0.536,0.964,0.0,0.247,-4.093,0.127,126.084,0.276,54
+198,The Way of the Fist,12,4mHH6VleuOdj0L37IsNpy4,Stranger Than Fiction,spotify:track:4mHH6VleuOdj0L37IsNpy4,0.000245,0.557,0.886,1.24e-05,0.148,-5.657,0.0618,112.04,0.206,41
+199,The Way of the Fist,13,0B5czEG5lh3p02PjJJQ00Y,The Bleeding (Acoustic),spotify:track:0B5czEG5lh3p02PjJJQ00Y,0.129,0.591,0.666,0.0,0.233,-5.849,0.0372,159.986,0.224,42
