@@ -1,14 +1,15 @@
 Index,ArtistName,ArtistPopularity,ArtistGenres,SongName,SongPopularity,AlbumName
-0,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Ashes,42,The Way of the Fist
-1,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",The Way of the Fist,45,The Way of the Fist
-2,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Salvation,28,The Way of the Fist
-3,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",The Bleeding,37,The Way of the Fist
-4,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",A Place to Die,38,The Way of the Fist
-5,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",The Devil's Own,41,The Way of the Fist
-6,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",White Knuckles,44,The Way of the Fist
-7,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Death Before Dishonor,46,The Way of the Fist
-8,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Can't Heal You,38,The Way of the Fist
-9,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Meet the Monster,43,The Way of the Fist
-10,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Never Enough,54,The Way of the Fist
-11,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",Stranger Than Fiction,41,The Way of the Fist
-12,Five Finger Death Punch,73,"['alternative metal', 'groove metal', 'nu metal']",The Bleeding (Acoustic),42,The Way of the Fist
+0,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Papercut,79,Hybrid Theory (Bonus Edition)
+1,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",One Step Closer,82,Hybrid Theory (Bonus Edition)
+2,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",With You,67,Hybrid Theory (Bonus Edition)
+3,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Points of Authority,72,Hybrid Theory (Bonus Edition)
+4,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Crawling,81,Hybrid Theory (Bonus Edition)
+5,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Runaway,68,Hybrid Theory (Bonus Edition)
+6,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",By Myself,66,Hybrid Theory (Bonus Edition)
+7,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",In the End,88,Hybrid Theory (Bonus Edition)
+8,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",A Place for My Head,74,Hybrid Theory (Bonus Edition)
+9,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Forgotten,65,Hybrid Theory (Bonus Edition)
+10,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Cure for the Itch,58,Hybrid Theory (Bonus Edition)
+11,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",Pushing Me Away,68,Hybrid Theory (Bonus Edition)
+12,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",My December,61,Hybrid Theory (Bonus Edition)
+13,Linkin Park,84,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",High Voltage,57,Hybrid Theory (Bonus Edition)

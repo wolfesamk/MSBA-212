@@ -1,4 +1,4 @@
-Index,Song,Lyrics
+Index,Song,Lyrics,Profanity Prediction Score,Profanity Prediction Probability
 0,"""Somewhere I Belong"" by Linkin Park:
     76 ContributorsTranslationsPortuguêsDeutschSomewhere I Belong Lyrics[Verse 1: Mike Shinoda, Chester ...","(When this began) I had nothin' to say
 And I'd get lost in the nothingness inside of me
@@ -58,7 +58,7 @@ I wanna heal, I wanna feel like I'm
 Somewhere I belong
 I wanna heal, I wanna feel like I'm
 Somewhere I belong
-Somewhere I belong52Embed"
+Somewhere I belong52Embed",0,0.11558874320397508
 1,"""Faint"" by Linkin Park:
     76 ContributorsTranslationsDeutschFaint Lyrics[Verse 1: Mike Shinoda]
     I am a little bit of lonelines...","I am a little bit of loneliness
@@ -123,7 +123,7 @@ Don't turn your back on me, I won't be ignored
 I can't feel
 Don't turn your back on me, I won't be ignored
 Time won't heal
-Don't turn your back on me, I won't be ignored60Embed"
+Don't turn your back on me, I won't be ignored60Embed",0,0.14246547914398167
 2,"""Breaking the Habit"" by Linkin Park:
     101 ContributorsTranslationsPortuguêsDeutschBreaking the Habit Lyrics[Verse 1]
     Memories consume like...","Memories consume like opening the wound
@@ -170,7 +170,7 @@ But now I have some clarity to show you what I mean
 I don't know how I got this way, I'll never be alright
 So I'm breaking the habit
 I'm breaking the habit
-I'm breaking the habit tonight76Embed"
+I'm breaking the habit tonight76Embed",0,0.021071621515562185
 3,"""Numb"" by Linkin Park:
     225 ContributorsTranslationsTürkçePortuguêsDeutschNumb Lyrics[Verse 1: Chester Bennington]
     I'm tired...","I'm tired of being what you want me to be
@@ -222,4 +222,4 @@ Is be more like me and be less like you
 I've become so numb, I can't feel you there
 I'm tired of being what you want me to be
 I've become so numb, I can't feel you there
-I'm tired of being what you want me to be198Embed"
+I'm tired of being what you want me to be198Embed",0,0.10927799154492565
