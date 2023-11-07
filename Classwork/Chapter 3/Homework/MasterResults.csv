@@ -1,6 +1,5 @@
-Index,Song,Lyrics
-0,"""Somewhere I Belong"" by Linkin Park:
-    76 ContributorsTranslationsPortuguêsDeutschSomewhere I Belong Lyrics[Verse 1: Mike Shinoda, Chester ...","(When this began) I had nothin' to say
+Song,Lyrics,Emotion,TextBlob Polarity Score,TextBlob Subjectivity Score,Vader_Neg,Vader_Neu,Vader_Pos,Vader_Com,album,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Somewhere I Belong,"(When this began) I had nothin' to say
 And I'd get lost in the nothingness inside of me
 (I was confused) And I let it all out to find
 That I'm not the only person with these things in mind
@@ -58,10 +57,8 @@ I wanna heal, I wanna feel like I'm
 Somewhere I belong
 I wanna heal, I wanna feel like I'm
 Somewhere I belong
-Somewhere I belong52Embed"
-1,"""Faint"" by Linkin Park:
-    78 ContributorsTranslationsDeutschFaint Lyrics[Verse 1: Mike Shinoda]
-    I am a little bit of lonelines...","I am a little bit of loneliness
+Somewhere I belong52Embed",fear,0.0992063492063492,0.5449841269841271,0.124,0.82,0.056,-0.9871,Meteora (Bonus Edition),3,1d5UuboIPRMD4HaU3yycKC,spotify:track:1d5UuboIPRMD4HaU3yycKC,0.00038,0.451,0.951,2.39e-06,0.261,-3.754,0.0645,162.065,0.442,57.0
+1,Faint,"I am a little bit of loneliness
 A little bit of disregard
 Handful of complaints, but I can't help the fact
 That everyone can see these scars
@@ -123,10 +120,8 @@ Don't turn your back on me, I won't be ignored
 I can't feel
 Don't turn your back on me, I won't be ignored
 Time won't heal
-Don't turn your back on me, I won't be ignored60Embed"
-2,"""Breaking the Habit"" by Linkin Park:
-    101 ContributorsTranslationsPortuguêsDeutschBreaking the Habit Lyrics[Verse 1]
-    Memories consume like...","Memories consume like opening the wound
+Don't turn your back on me, I won't be ignored60Embed",anger,-0.0703007518796992,0.2234962406015037,0.084,0.81,0.107,0.8332,Meteora (Bonus Edition),7,2uxL6E8Yq0Psc1V9uBtC4F,spotify:track:2uxL6E8Yq0Psc1V9uBtC4F,0.111,0.554,0.978,0.0,0.0731,-3.554,0.131,135.095,0.594,56.0
+2,Breaking the Habit,"Memories consume like opening the wound
 I'm picking me apart again
 You all assume I'm safe here in my room
 Unless I try to start again
@@ -170,10 +165,8 @@ But now I have some clarity to show you what I mean
 I don't know how I got this way, I'll never be alright
 So I'm breaking the habit
 I'm breaking the habit
-I'm breaking the habit tonight76Embed"
-3,"""Numb"" by Linkin Park:
-    225 ContributorsTranslationsTürkçePortuguêsDeutschNumb Lyrics[Verse 1: Chester Bennington]
-    I'm tired...","I'm tired of being what you want me to be
+I'm breaking the habit tonight76Embed",anger,-0.0013392857142857,0.4206845238095238,0.118,0.851,0.03,-0.9114,Meteora (Bonus Edition),9,4HcDu9IGRCvSTJE4yW5Ugv,spotify:track:4HcDu9IGRCvSTJE4yW5Ugv,0.108,0.579,0.849,0.0,0.0909,-5.218,0.0303,100.021,0.581,58.0
+3,Numb,"I'm tired of being what you want me to be
 Feeling so faithless, lost under the surface
 I don't know what you're expecting of me
 Put under the pressure of walking in your shoes
@@ -222,10 +215,175 @@ Is be more like me and be less like you
 I've become so numb, I can't feel you there
 I'm tired of being what you want me to be
 I've become so numb, I can't feel you there
-I'm tired of being what you want me to be198Embed"
-4,"""A Line in the Sand"" by Linkin Park:
-    30 ContributorsTranslationsDeutschA Line in the Sand Lyrics[Intro: Mike Shinoda]
-    Today, we stood on ...","Today, we stood on the wall
+I'm tired of being what you want me to be198Embed",fear,-0.0488839285714285,0.5745535714285713,0.155,0.776,0.069,-0.9877,Meteora (Bonus Edition),13,0kO3njY9N1Rxgv27Ha1lLh,spotify:track:0kO3njY9N1Rxgv27Ha1lLh,0.0046,0.496,0.863,0.0,0.639,-4.153,0.0381,110.018,0.243,61.0
+4,The Little Things Give You Away,"Water grey
+Through the windows, up the stairs
+Chilling rain
+Like an ocean, everywhere
+
+[Pre-Chorus: Chester Bennington]
+Don't want to reach for me, do you?
+I mean nothing to you
+The little things give you away
+And now there will be no mistaking
+The levees are breakin'
+
+[Chorus: Chester Bennington]
+All you've ever wanted
+Was someone to truly look up to you
+And six feet underwater, I do
+
+[Verse 2: Chester Bennington]
+Hope decays
+Generations disappear
+Washed away
+As a nation simply stares
+
+[Pre-Chorus: Chester Bennington]
+Don't want to reach for me, do you?
+I mean nothing to you
+The little things give you away
+But now there will be no mistakin'
+The levees are breakin'
+You might also like[Chorus: Chester Bennington]
+All you've ever wanted
+Was someone to truly look up to you
+And six feet underwater, I do
+All you've ever wanted
+Was someone to truly look up to you
+And six feet underground
+Now I, now I do
+
+[Guitar Solo: Brad Delson]
+
+[Outro: Chester Bennington & Mike Shinoda]
+Oh-oh-oh-oh, oh-oh
+Oh-oh, oh-oh, oh
+The little things give you away (Oh-oh-oh-oh)
+The little things give you away (Oh-oh)
+The little things give you away (Oh-oh, oh-oh)
+The little things give you away (Oh)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)
+All you've ever wanted (The little things give you away)
+Was someone to truly look up to you (The little things give you away)17Embed",anger,-0.1978260869565217,0.5100931677018634,0.03,0.866,0.104,0.986,Minutes to Midnight,12,48QYP8a8gEqbtvjOTMSpiD,spotify:track:48QYP8a8gEqbtvjOTMSpiD,0.036,0.562,0.479,0.000126,0.0562,-7.233,0.0278,140.051,0.113,53.0
+5,Given Up,"Wake in a sweat again
+Another day's been laid to waste, in my disgrace
+Stuck in my head again
+Feels like I'll never leave this place, there's no escape
+
+[Pre-Chorus]
+I'm my own worst enemy
+
+[Chorus]
+I've given up, I'm sick of feelin'
+Is there nothin' you can say?
+Take this all away, I'm suffocatin'
+Tell me what the fuck is wrong with me
+
+[Verse 2]
+I don't know what to take
+Thought I was focused but I'm scared, I'm not prepared
+I hyperventilate
+Lookin' for help somehow, somewhere and no one cares
+
+[Pre-Chorus]
+I'm my own worst enemy
+
+[Chorus]
+I've given up, I'm sick of feelin'
+Is there nothin' you can say?
+Take this all away, I'm suffocatin'
+Tell me what the fuck is wrong with me
+You might also like[Bridge]
+God!
+Put me out of my misery!
+Put me out of my misery!
+Put me out of my, put me out of my
+Fucking misery!
+
+[Chorus]
+I've given up, I'm sick of feelin'
+Is there nothin' you can say?
+Take this all away, I'm suffocatin'
+Tell me what the fuck is wrong with me36Embed",fear,-0.4712946428571429,0.7914285714285715,0.334,0.623,0.043,-0.9975,Minutes to Midnight,2,1fLlRApgzxWweF1JTf8yM5,spotify:track:1fLlRApgzxWweF1JTf8yM5,0.00117,0.655,0.885,0.000473,0.0448,-4.116,0.0438,100.088,0.938,77.0
+6,Bleed It Out,"Yeah, here we go for the hundredth time
+Hand grenade pins in every line
+Throw 'em up and let something shine
+Going out of my fuckin' mind
+Filthy mouth, no excuse
+Find a new place to hang this noose
+String me up from atop these roofs
+Knot it tight so I won't get loose
+Truth is, you can stop and stare
+Bled myself out and no one cares
+Dug the trench out, laid down there
+With a shovel up out of reach somewhere
+Yeah, someone pour it in
+Make it a dirt dance floor again
+Say your prayers and stomp it out
+When they bring that chorus in
+
+[Chorus: Chester Bennington with Mike Shinoda]
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+Just to throw it away, just to throw it away
+I bleed it out
+
+[Verse 2: Mike Shinoda]
+Go, stop the show
+Choppy words and a sloppy flow
+Shotgun opera, lock and load
+Cock it back and then watch it go
+Mama, help me, I've been cursed
+Death is rollin' in every verse
+Candy paint on his brand new hearse
+Can't contain him, he knows he works
+Fuck, this hurts, I won't lie
+Doesn't matter how hard I try
+Half the words don't mean a thing
+And I know that I won't be satisfied
+So why try ignorin' him?
+Make it a dirt dance floor again
+Say your prayers and stomp it out
+When they bring that chorus in
+You might also like[Chorus: Chester Bennington]
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+Just to throw it away, just to throw it away
+I bleed it out
+
+[Bridge: Chester Bennington]
+I've opened up these scars
+I'll make you face this!
+I've pulled myself so far
+I'll make you face this now!
+
+[Chorus: Chester Bennington]
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+Just to throw it away, just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+I bleed it out, diggin' deeper just to throw it away
+Just to throw it away, just to throw it away
+I bleed it out
+
+[Outro: Chester Bennington]
+I bleed it out
+I bleed it out55Embed",joy,-0.1219264242701742,0.4842973866411367,0.069,0.898,0.033,-0.9508,Minutes to Midnight,4,0UFDKFqW2oGspYeYqo9wjA,spotify:track:0UFDKFqW2oGspYeYqo9wjA,0.114,0.529,0.967,0.0,0.61,-3.647,0.0508,140.127,0.596,81.0
+7,A Line in the Sand,"Today, we stood on the wall
 We laughed at the sun
 We laughed at the guns
 We laughed at it all
@@ -296,11 +454,8 @@ We laughed at it all
 And when they, they told us to go
 We paid them no mind
 Like every other time
-But little did we know24Embed"
-5,"""Guilty All the Same"" by Linkin Park:
-    56 ContributorsTranslationsDeutschGuilty All the Same Lyrics[Instrumental Intro]
-    
-    [Verse 1: Chester ...","
+But little did we know24Embed",fear,0.1615530303030302,0.1795454545454545,0.115,0.805,0.081,-0.9113,The Hunting Party,12,4BRvD5QdauTo8EuUvYchu3,spotify:track:4BRvD5QdauTo8EuUvYchu3,0.037,0.291,0.922,0.0198,0.101,-4.968,0.0885,99.706,0.0404,50.0
+8,Guilty All the Same (feat. Rakim),"
 [Verse 1: Chester Bennington]
 Tell us all again what you think we should be
 What the answers are, what it is we can't see
@@ -366,176 +521,73 @@ There's no one else to blame, guilty all the same
 Guilty all the same
 Guilty all the same
 
-[Instrumental Outro]40Embed"
-6,"""The Little Things Give You Away"" by Linkin Park:
-    40 ContributorsTranslationsPortuguêsItalianoDeutschThe Little Things Give You Away Lyrics[Verse 1: C...","Water grey
-Through the windows, up the stairs
-Chilling rain
-Like an ocean, everywhere
+[Instrumental Outro]40Embed",guilt,-0.1630347054075867,0.5851896690879742,0.286,0.623,0.091,-0.9992,The Hunting Party,3,6L5QMBrydoaapTDMQ0Anui,spotify:track:6L5QMBrydoaapTDMQ0Anui,0.0287,0.566,0.969,0.000442,0.281,-3.369,0.046,100.012,0.641,61.0
+9,All for Nothing (feat. Page Hamilton),"Yeah
+Uh
 
-[Pre-Chorus: Chester Bennington]
-Don't want to reach for me, do you?
-I mean nothing to you
-The little things give you away
-And now there will be no mistaking
-The levees are breakin'
+[Verse 1: Mike Shinoda]
+So what'cha waitin' for, anticipatin' more
+While you debate what it could take to instigate a war?
+Yeah, I been hated more than time I wasn't hated for
+There's nothing they can fuckin' say they didn't say before
 
-[Chorus: Chester Bennington]
-All you've ever wanted
-Was someone to truly look up to you
-And six feet underwater, I do
+[Pre-Chorus: Mike Shinoda]
+But you could never see it, your battle's not mine
+Wanna skate and play it safe, but this is take a shot time
+While you're waitin' for a purpose, I already got mine
+While you tell me step to it like ""one, two, three, four""
 
-[Verse 2: Chester Bennington]
-Hope decays
-Generations disappear
-Washed away
-As a nation simply stares
+[Chorus: Page Hamilton & Chester Bennington]
+And if I do what you demand
+(You say!) You'll let me understand
+(You say!) You're gonna hold me to your word
+And if I sell myself away
+(You say!) I'll have no debt to pay
+(You say!) I'm gonna get what I deserve
+Woah-oh-oh-oh
 
-[Pre-Chorus: Chester Bennington]
-Don't want to reach for me, do you?
-I mean nothing to you
-The little things give you away
-But now there will be no mistakin'
-The levees are breakin'
-You might also like[Chorus: Chester Bennington]
-All you've ever wanted
-Was someone to truly look up to you
-And six feet underwater, I do
-All you've ever wanted
-Was someone to truly look up to you
-And six feet underground
-Now I, now I do
+[Post-Chorus: Chester Bennington & Page Hamilton]
+Your word, obeyed
+My debt, repaid
+Our trust, betrayed
+All for nothing! All for nothing!
+You might also like[Verse 2: Mike Shinoda]
+Kick back, there's no other way to say it
+So let me break this fucker down for ya, I really don't know ya
+You talk, but let me show you where to put your paranoia
+You're joking, I don't have a half a sucker bone to throw you
+I'm disgusted, wonder what could've made you tuck your tail below you
 
-[Guitar Solo: Brad Delson]
+[Pre-Chorus: Mike Shinoda with Chester Bennington]
+And no, I'm not your soldier, I'm not takin' any orders
+I'm a five-star general infantry controller
+Need a lesson? Let me show you, have you checkin' your composure
+While I make you step to it like ""one, two, three, four""?
 
-[Outro: Chester Bennington & Mike Shinoda]
-Oh-oh-oh-oh, oh-oh
-Oh-oh, oh-oh, oh
-The little things give you away (Oh-oh-oh-oh)
-The little things give you away (Oh-oh)
-The little things give you away (Oh-oh, oh-oh)
-The little things give you away (Oh)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)
-All you've ever wanted (The little things give you away)
-Was someone to truly look up to you (The little things give you away)17Embed"
-7,"""Given Up"" by Linkin Park:
-    71 ContributorsTranslationsPortuguêsItalianoDeutschGiven Up Lyrics[Verse 1]
-    Wake in a sweat again
-    An...","Wake in a sweat again
-Another day's been laid to waste, in my disgrace
-Stuck in my head again
-Feels like I'll never leave this place, there's no escape
+[Chorus: Page Hamilton & Chester Bennington]
+And if I do what you demand
+(You say!) You'll let me understand
+(You say!) You're gonna hold me to your word
+And if I sell myself away
+(You say!) I'll have no debt to pay
+(You say!) I'm gonna get what I deserve
+Woah-oh-oh-oh
 
-[Pre-Chorus]
-I'm my own worst enemy
+[Guitar Solo]
 
-[Chorus]
-I've given up, I'm sick of feelin'
-Is there nothin' you can say?
-Take this all away, I'm suffocatin'
-Tell me what the fuck is wrong with me
+[Chorus: Page Hamilton]
+And if I do what you demand
+You'll let me understand
+[Post-Chorus: Chester Bennington & Page Hamilton]
+Your word, obeyed
+My debt, repaid
+Our trust, betrayed
+All for nothing! All for nothing!
+All for nothing! All for nothing!
 
-[Verse 2]
-I don't know what to take
-Thought I was focused but I'm scared, I'm not prepared
-I hyperventilate
-Lookin' for help somehow, somewhere and no one cares
-
-[Pre-Chorus]
-I'm my own worst enemy
-
-[Chorus]
-I've given up, I'm sick of feelin'
-Is there nothin' you can say?
-Take this all away, I'm suffocatin'
-Tell me what the fuck is wrong with me
-You might also like[Bridge]
-God!
-Put me out of my misery!
-Put me out of my misery!
-Put me out of my, put me out of my
-Fucking misery!
-
-[Chorus]
-I've given up, I'm sick of feelin'
-Is there nothin' you can say?
-Take this all away, I'm suffocatin'
-Tell me what the fuck is wrong with me36Embed"
-8,"""Bleed It Out"" by Linkin Park:
-    85 ContributorsTranslationsPortuguêsLinkin Park - Bleed It Out (Traduzione Italiana)DeutschBleed It ...","Yeah, here we go for the hundredth time
-Hand grenade pins in every line
-Throw 'em up and let something shine
-Going out of my fuckin' mind
-Filthy mouth, no excuse
-Find a new place to hang this noose
-String me up from atop these roofs
-Knot it tight so I won't get loose
-Truth is, you can stop and stare
-Bled myself out and no one cares
-Dug the trench out, laid down there
-With a shovel up out of reach somewhere
-Yeah, someone pour it in
-Make it a dirt dance floor again
-Say your prayers and stomp it out
-When they bring that chorus in
-
-[Chorus: Chester Bennington with Mike Shinoda]
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-Just to throw it away, just to throw it away
-I bleed it out
-
-[Verse 2: Mike Shinoda]
-Go, stop the show
-Choppy words and a sloppy flow
-Shotgun opera, lock and load
-Cock it back and then watch it go
-Mama, help me, I've been cursed
-Death is rollin' in every verse
-Candy paint on his brand new hearse
-Can't contain him, he knows he works
-Fuck, this hurts, I won't lie
-Doesn't matter how hard I try
-Half the words don't mean a thing
-And I know that I won't be satisfied
-So why try ignorin' him?
-Make it a dirt dance floor again
-Say your prayers and stomp it out
-When they bring that chorus in
-You might also like[Chorus: Chester Bennington]
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-Just to throw it away, just to throw it away
-I bleed it out
-
-[Bridge: Chester Bennington]
-I've opened up these scars
-I'll make you face this!
-I've pulled myself so far
-I'll make you face this now!
-
-[Chorus: Chester Bennington]
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-Just to throw it away, just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-I bleed it out, diggin' deeper just to throw it away
-Just to throw it away, just to throw it away
-I bleed it out
-
-[Outro: Chester Bennington]
-I bleed it out
-I bleed it out55Embed"
+[Outro: Mike Shinoda & Brad Delson]
+We're going too far
+I don't think we're too far
+We are
+There's a difference, put the heavy shit there
+The heavy shit right here?14Embed",disgust,-0.0587992356315491,0.5683134920634921,0.137,0.789,0.075,-0.9864,The Hunting Party,2,5Rcs3fREgibWujLUlUb8KA,spotify:track:5Rcs3fREgibWujLUlUb8KA,0.000203,0.461,0.958,9.33e-06,0.459,-3.852,0.124,159.974,0.264,51.0

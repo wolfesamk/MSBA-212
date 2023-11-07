@@ -1,0 +1,11 @@
+Index,album,track_number,id,Song,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+320,Meteora (Bonus Edition),3,1d5UuboIPRMD4HaU3yycKC,Somewhere I Belong,spotify:track:1d5UuboIPRMD4HaU3yycKC,0.00038,0.451,0.951,2.39e-06,0.261,-3.754,0.0645,162.065,0.442,57.0
+324,Meteora (Bonus Edition),7,2uxL6E8Yq0Psc1V9uBtC4F,Faint,spotify:track:2uxL6E8Yq0Psc1V9uBtC4F,0.111,0.554,0.978,0.0,0.0731,-3.554,0.131,135.095,0.594,56.0
+326,Meteora (Bonus Edition),9,4HcDu9IGRCvSTJE4yW5Ugv,Breaking the Habit,spotify:track:4HcDu9IGRCvSTJE4yW5Ugv,0.108,0.579,0.849,0.0,0.0909,-5.218,0.0303,100.021,0.581,58.0
+330,Meteora (Bonus Edition),13,0kO3njY9N1Rxgv27Ha1lLh,Numb,spotify:track:0kO3njY9N1Rxgv27Ha1lLh,0.0046,0.496,0.863,0.0,0.639,-4.153,0.0381,110.018,0.243,61.0
+295,Minutes to Midnight,2,1fLlRApgzxWweF1JTf8yM5,Given Up,spotify:track:1fLlRApgzxWweF1JTf8yM5,0.00117,0.655,0.885,0.000473,0.0448,-4.116,0.0438,100.088,0.938,77.0
+297,Minutes to Midnight,4,0UFDKFqW2oGspYeYqo9wjA,Bleed It Out,spotify:track:0UFDKFqW2oGspYeYqo9wjA,0.114,0.529,0.967,0.0,0.61,-3.647,0.0508,140.127,0.596,81.0
+305,Minutes to Midnight,12,48QYP8a8gEqbtvjOTMSpiD,The Little Things Give You Away,spotify:track:48QYP8a8gEqbtvjOTMSpiD,0.036,0.562,0.479,0.000126,0.0562,-7.233,0.0278,140.051,0.113,53.0
+149,The Hunting Party,2,5Rcs3fREgibWujLUlUb8KA,All for Nothing (feat. Page Hamilton),spotify:track:5Rcs3fREgibWujLUlUb8KA,0.000203,0.461,0.958,9.33e-06,0.459,-3.852,0.124,159.974,0.264,51.0
+150,The Hunting Party,3,6L5QMBrydoaapTDMQ0Anui,Guilty All the Same (feat. Rakim),spotify:track:6L5QMBrydoaapTDMQ0Anui,0.0287,0.566,0.969,0.000442,0.281,-3.369,0.046,100.012,0.641,61.0
+159,The Hunting Party,12,4BRvD5QdauTo8EuUvYchu3,A Line in the Sand,spotify:track:4BRvD5QdauTo8EuUvYchu3,0.037,0.291,0.922,0.0198,0.101,-4.968,0.0885,99.706,0.0404,50.0
